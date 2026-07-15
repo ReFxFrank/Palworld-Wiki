@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "2026.07.14-mvp2",
+  "dataVersion": "2026.07.15-layers1",
   "gameVersion": "1.0 series (verified through 1.0.0100427 content)",
-  "generatedAt": "2026-07-14",
+  "generatedAt": "2026-07-15",
   "bounds": { "minX": -1954.07407407, "maxX": 1200.26143791, "minY": -1908.61002179, "maxY": 1245.7254902 },
   "maps": [
     {
@@ -16,13 +16,13 @@
     }
   ],
   "categories": [
-    { "id": "fast-travel", "name": "Fast Travel", "color": "#65e6c4", "glyph": "↯", "description": "Great Eagle Statues and named travel points." },
-    { "id": "watchtower", "name": "Watchtowers", "color": "#67b7ff", "glyph": "◎", "description": "Map-reveal watchtowers introduced in Palworld 1.0; each can also be used for fast travel." },
-    { "id": "tower", "name": "Faction Towers", "color": "#f59e72", "glyph": "♜", "description": "Faction-leader boss towers." },
-    { "id": "sealed-realm", "name": "Sealed Realms", "color": "#ba8cff", "glyph": "◇", "description": "Single-boss dungeon realms, including the Terraria dungeon realm." },
-    { "id": "alpha-pal", "name": "Alpha Pals", "color": "#ffd166", "glyph": "α", "description": "Fixed overworld Alpha Pal encounters." },
-    { "id": "oil-rig", "name": "Oil Rigs", "color": "#ff7d8d", "glyph": "▣", "description": "Fortified offshore combat locations." },
-    { "id": "skill-fruit", "name": "Skill Fruit Trees", "color": "#9ee65f", "glyph": "✦", "description": "Verified Skill Fruit Tree locations." }
+    { "id": "fast-travel", "name": "Fast Travel", "group": "Locations", "color": "#65e6c4", "glyph": "↯", "description": "Great Eagle Statues and named travel points." },
+    { "id": "watchtower", "name": "Watchtowers", "group": "Locations", "color": "#67b7ff", "glyph": "◎", "description": "Map-reveal watchtowers introduced in Palworld 1.0; each can also be used for fast travel." },
+    { "id": "tower", "name": "Faction Towers", "group": "Locations", "color": "#f59e72", "glyph": "♜", "description": "Faction-leader boss towers." },
+    { "id": "sealed-realm", "name": "Sealed Realms", "group": "Locations", "color": "#ba8cff", "glyph": "◇", "description": "Single-boss dungeon realms, including the Terraria dungeon realm." },
+    { "id": "alpha-pal", "name": "Alpha Pals", "group": "Pals", "color": "#ffd166", "glyph": "α", "description": "Fixed overworld Alpha Pal encounters." },
+    { "id": "oil-rig", "name": "Oil Rigs", "group": "Locations", "color": "#ff7d8d", "glyph": "▣", "description": "Fortified offshore combat locations." },
+    { "id": "skill-fruit", "name": "Skill Fruit Trees", "group": "Resources", "color": "#9ee65f", "glyph": "✦", "description": "Verified Skill Fruit Tree locations." }
   ],
   "sources": [
     { "id": "wiki-map-model", "title": "Maps — The Palworld Wiki", "url": "https://palworld.wiki.gg/wiki/Maps?oldid=33917", "revision": "33917", "license": "CC BY-SA 4.0", "accessed": "2026-07-14", "use": "Coordinate conversion and Palpagos world bounds." },

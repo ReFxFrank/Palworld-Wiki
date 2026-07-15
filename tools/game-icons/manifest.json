@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T01:10:28.391Z",
+  "generatedAt": "2026-07-15T01:56:19.963Z",
   "attribution": {
     "notice": "All downloaded imagery is Palworld game art © Pocketpair, Inc., used as a fair-use fan reference for identification. Hosting repositories: tylercamp/palcalc (MIT), oMaN-Rod/palworld-save-pal, and palworld.wiki.gg uploads.",
     "pins": {
@@ -77,10 +77,70 @@
       "bytes": 3498
     },
     {
+      "dest": "assets/map/icons/node-coal.png",
+      "url": "https://palworld.wiki.gg/images/Coal_icon.png",
+      "sha256": "f3525b93ea97d364e2561427256fb32702f9f1281c8a2605c50bef5a5079301f",
+      "bytes": 32361
+    },
+    {
+      "dest": "assets/map/icons/node-copper.png",
+      "url": "https://palworld.wiki.gg/images/Ore_icon.png",
+      "sha256": "3d39df1fad3636b61ab001621992baf23ad90411859cd515ab9bf0f538a80729",
+      "bytes": 32485
+    },
+    {
+      "dest": "assets/map/icons/node-dogcoin.png",
+      "url": "https://palworld.wiki.gg/images/Dog_Coin_icon.png",
+      "sha256": "b6b1907b6e10817a39f87a6afd9a67614a9e541ee82ed02442264b79b7e57bdd",
+      "bytes": 52360
+    },
+    {
+      "dest": "assets/map/icons/node-hexolite.png",
+      "url": "https://palworld.wiki.gg/images/Hexolite_Quartz_icon.png",
+      "sha256": "76d4c2d80b16515db98db5427a6d32822cd4757e6ec972e736caba448e3191e4",
+      "bytes": 29245
+    },
+    {
+      "dest": "assets/map/icons/node-nightstone.png",
+      "url": "https://palworld.wiki.gg/images/Nightstar_Sand_icon.png",
+      "sha256": "eab7be7a625f47401c5a97b0151201f39dfae9895b70341787a6b2460abf63d5",
+      "bytes": 35482
+    },
+    {
+      "dest": "assets/map/icons/node-oil.png",
+      "url": "https://palworld.wiki.gg/images/Crude_Oil_icon.png",
+      "sha256": "82c21ddec70d0a41b2d36c66a50c3afd6274ef8fe3fbd4465d747ebdcedfaf4a",
+      "bytes": 38924
+    },
+    {
+      "dest": "assets/map/icons/node-quartz.png",
+      "url": "https://palworld.wiki.gg/images/Pure_Quartz_icon.png",
+      "sha256": "efab125e939e55bfe1c73c39ce27aefa6791db17dd6acc26f9793687129a22d6",
+      "bytes": 32802
+    },
+    {
+      "dest": "assets/map/icons/node-sulfur.png",
+      "url": "https://palworld.wiki.gg/images/Sulfur_icon.png",
+      "sha256": "abbaa0cd15f82b0ee5678e564ab44ff7d73a52a2830781443d497f930efeafd4",
+      "bytes": 22733
+    },
+    {
       "dest": "assets/map/icons/oil-rig.png",
       "url": "https://palworld.wiki.gg/images/Compass_Oil_Rig_icon.png",
       "sha256": "f4d6ea7133eb356703cda78a350d99d8ad1129190bf87701a2be05763ec2beb7",
       "bytes": 3479
+    },
+    {
+      "dest": "assets/map/icons/poi-dungeon.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Dungeon_icon.png",
+      "sha256": "3dc14f3e3250f181604503f19e91a27bd78baf674323abb90fcf1b350b55017b",
+      "bytes": 1908
+    },
+    {
+      "dest": "assets/map/icons/poi-effigy.png",
+      "url": "https://palworld.wiki.gg/images/Lifmunk_Effigy_icon.png",
+      "sha256": "4826e796352f2456be18a48fb680ce7a5a1471459d393bf02457a19b78a82c45",
+      "bytes": 50332
     },
     {
       "dest": "assets/map/icons/sealed-realm.png",
@@ -2759,6 +2819,17 @@
       "bytes": 302384
     }
   ],
-  "skipped": [],
+  "skipped": [
+    {
+      "dest": "assets/map/icons/node-sky-ore.png",
+      "url": "https://palworld.wiki.gg/images/Soralite_icon.png",
+      "reason": "not found (optional)"
+    },
+    {
+      "dest": "assets/map/icons/poi-chest.png",
+      "url": "https://palworld.wiki.gg/images/Treasure_Chest_icon.png",
+      "reason": "not found (optional)"
+    }
+  ],
   "failures": []
 }

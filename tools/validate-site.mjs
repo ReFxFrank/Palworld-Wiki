@@ -6,6 +6,8 @@ const checked = [
   'assets/data/skills.js',
   'assets/data/structures.js',
   'assets/data/map.js',
+  'assets/data/map-layers.js',
+  'assets/data/spawns.js',
 ];
 
 for (const relative of checked) {

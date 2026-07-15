@@ -47,6 +47,23 @@ const MAP_CATEGORY_ICONS = {
   'skill-fruit': 'Skillfruit_Orchard_icon.png',
 };
 
+// Optional real item/POI icons for the bulk map layers (wiki "<Item> icon.png"
+// convention). Misses 404 harmlessly — the UI falls back to the layer glyph.
+const LAYER_ICON_CANDIDATES = {
+  'node-copper': 'Ore icon.png',
+  'node-coal': 'Coal icon.png',
+  'node-quartz': 'Pure Quartz icon.png',
+  'node-sulfur': 'Sulfur icon.png',
+  'node-hexolite': 'Hexolite Quartz icon.png',
+  'node-sky-ore': 'Soralite icon.png',
+  'node-nightstone': 'Nightstar Sand icon.png',
+  'node-oil': 'Crude Oil icon.png',
+  'node-dogcoin': 'Dog Coin icon.png',
+  'poi-chest': 'Treasure Chest icon.png',
+  'poi-effigy': 'Lifmunk Effigy icon.png',
+  'poi-dungeon': 'Compass_Dungeon_icon.png',
+};
+
 const slug = value => String(value || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 const wikiFileUrl = name => WIKI_IMAGES + encodeURIComponent(name.replace(/ /g, '_')).replace(/\(/g, '%28').replace(/\)/g, '%29').replace(/'/g, '%27');
 
@@ -78,6 +95,9 @@ for (const rank of RANKS) {
 }
 for (const [category, file] of Object.entries(MAP_CATEGORY_ICONS)) {
   files.push({ dest: `assets/map/icons/${category}.png`, url: WIKI_IMAGES + file });
+}
+for (const [category, file] of Object.entries(LAYER_ICON_CANDIDATES)) {
+  files.push({ dest: `assets/map/icons/${category}.png`, url: wikiFileUrl(file), optional: true });
 }
 for (const structure of await loadStructures()) {
   // Wiki icon naming convention: "<Page title> icon.png". Optional because a

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-15T00:57:52.083Z",
+  "generatedAt": "2026-07-15T01:56:04.162Z",
   "attribution": {
     "notice": "All downloaded imagery is Palworld game art © Pocketpair, Inc., used as a fair-use fan reference for identification. Hosting repositories: tylercamp/palcalc (MIT), oMaN-Rod/palworld-save-pal, and palworld.wiki.gg uploads.",
     "pins": {
@@ -1303,6 +1303,66 @@
     {
       "dest": "assets/map/icons/skill-fruit.png",
       "url": "https://palworld.wiki.gg/images/Skillfruit_Orchard_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/node-copper.png",
+      "url": "https://palworld.wiki.gg/images/Ore_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-coal.png",
+      "url": "https://palworld.wiki.gg/images/Coal_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-quartz.png",
+      "url": "https://palworld.wiki.gg/images/Pure_Quartz_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-sulfur.png",
+      "url": "https://palworld.wiki.gg/images/Sulfur_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-hexolite.png",
+      "url": "https://palworld.wiki.gg/images/Hexolite_Quartz_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-sky-ore.png",
+      "url": "https://palworld.wiki.gg/images/Soralite_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-nightstone.png",
+      "url": "https://palworld.wiki.gg/images/Nightstar_Sand_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-oil.png",
+      "url": "https://palworld.wiki.gg/images/Crude_Oil_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/node-dogcoin.png",
+      "url": "https://palworld.wiki.gg/images/Dog_Coin_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/poi-chest.png",
+      "url": "https://palworld.wiki.gg/images/Treasure_Chest_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/poi-effigy.png",
+      "url": "https://palworld.wiki.gg/images/Lifmunk_Effigy_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/map/icons/poi-dungeon.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Dungeon_icon.png",
+      "optional": true
     },
     {
       "dest": "assets/structures/accumulator.png",
