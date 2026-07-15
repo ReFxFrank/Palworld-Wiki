@@ -1,0 +1,2764 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T01:10:28.391Z",
+  "attribution": {
+    "notice": "All downloaded imagery is Palworld game art © Pocketpair, Inc., used as a fair-use fan reference for identification. Hosting repositories: tylercamp/palcalc (MIT), oMaN-Rod/palworld-save-pal, and palworld.wiki.gg uploads.",
+    "pins": {
+      "palcalc": "8ade7381d0548d0312dbe0d650673e4cebd86fd6",
+      "palworld-save-pal": "4cd0a85f66cf424b650ef0e886032a6b7419e55b",
+      "wiki": "palworld.wiki.gg live uploads, retrieved 2026-07-14"
+    }
+  },
+  "files": [
+    {
+      "dest": "assets/elements/dark.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/dark.webp",
+      "sha256": "8dc0c9f32478b693be434b8e2f02d78f02a38c67e0992da01b4fd7504060ac52",
+      "bytes": 7104
+    },
+    {
+      "dest": "assets/elements/dragon.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/dragon.webp",
+      "sha256": "4b022f54102d8dc551515182d23fa92f0b1c498516379eeb84e1001848167eaa",
+      "bytes": 5350
+    },
+    {
+      "dest": "assets/elements/electric.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/electric.webp",
+      "sha256": "ec4f5e9316eddcf168a83bd8e296d9adf34d494a2f2693638d2f9a33bafc72f7",
+      "bytes": 3878
+    },
+    {
+      "dest": "assets/elements/fire.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/fire.webp",
+      "sha256": "e979964ecd137a280679e43f2dfcb46363b6bff1263dfee2e4d704fc39b35e7f",
+      "bytes": 4832
+    },
+    {
+      "dest": "assets/elements/grass.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/grass.webp",
+      "sha256": "49fc5c19a71b76addc1fdb668b09e318f0c31afa6a06c8fe38259d52f419b585",
+      "bytes": 5006
+    },
+    {
+      "dest": "assets/elements/ground.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/ground.webp",
+      "sha256": "905808aa6839d2dc49947661ef9d86b223a2faad39787aaf95939742ead0ced5",
+      "bytes": 3296
+    },
+    {
+      "dest": "assets/elements/ice.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/ice.webp",
+      "sha256": "6c0996e3cf1fb005775376e39eb189474ce39c443cb06ead6ec972e3a94d41c2",
+      "bytes": 7682
+    },
+    {
+      "dest": "assets/elements/neutral.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/neutral.webp",
+      "sha256": "a3a9f86b1de758e145e4d80237b160e456aa55879e73f0f3eba1536afa632c39",
+      "bytes": 5732
+    },
+    {
+      "dest": "assets/elements/water.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/water.webp",
+      "sha256": "fddf0c273730787c9c6d7bfd83432ca7c6beb98d85c227c0c366e4218bf931d2",
+      "bytes": 4672
+    },
+    {
+      "dest": "assets/map/icons/alpha-pal.png",
+      "url": "https://palworld.wiki.gg/images/Alpha_Pals_icon.png",
+      "sha256": "2dc10dfa48f66e7a2b437085ba021e9c59e595dc42d10233aa0816ffd5b86f0b",
+      "bytes": 1018
+    },
+    {
+      "dest": "assets/map/icons/fast-travel.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Great_Eagle_Statue_icon.png",
+      "sha256": "6b6aa778e882cd65fd3f94adeb64b26aab86f6414897136301a7c3d237c46446",
+      "bytes": 3498
+    },
+    {
+      "dest": "assets/map/icons/oil-rig.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Oil_Rig_icon.png",
+      "sha256": "f4d6ea7133eb356703cda78a350d99d8ad1129190bf87701a2be05763ec2beb7",
+      "bytes": 3479
+    },
+    {
+      "dest": "assets/map/icons/sealed-realm.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Dungeon_icon.png",
+      "sha256": "3dc14f3e3250f181604503f19e91a27bd78baf674323abb90fcf1b350b55017b",
+      "bytes": 1908
+    },
+    {
+      "dest": "assets/map/icons/skill-fruit.png",
+      "url": "https://palworld.wiki.gg/images/Skillfruit_Orchard_icon.png",
+      "sha256": "db86568d07253e81dc038c35e8dd48d184515e99125764fd4714c292b5a1473d",
+      "bytes": 33192
+    },
+    {
+      "dest": "assets/map/icons/tower.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Tower_icon.png",
+      "sha256": "1c73d964ae9a0a9fc58c5e3b7447a025f8481250528a8823291b8926e99c678e",
+      "bytes": 4862
+    },
+    {
+      "dest": "assets/map/icons/watchtower.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Location_icon.png",
+      "sha256": "f6e8a1db773eff96ecc716ea31203ee7b2e472aa7441f026d609a8cb6c5d921a",
+      "bytes": 1172
+    },
+    {
+      "dest": "assets/pals/Aegidron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Aegidron.png",
+      "sha256": "bff676412fac319f5130dfed062b17755b5d5c262e1fb4f2bd8c8f81907cb9f9",
+      "bytes": 18296
+    },
+    {
+      "dest": "assets/pals/Amione.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Amione.png",
+      "sha256": "5d69eb6a84414a73aaa2ec20e86bf1ec0716a40f99b361b831ede06868c56b20",
+      "bytes": 18634
+    },
+    {
+      "dest": "assets/pals/Anubis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Anubis.png",
+      "sha256": "b2f437f9fea9566cda564736980ad5a0721dc3c755d9f00467b6e8132b5b1e9a",
+      "bytes": 9457
+    },
+    {
+      "dest": "assets/pals/Arsox.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Arsox.png",
+      "sha256": "e7bebc29cefa664e5032995bb2645f11c8dbabc3647b36926cfea3277ad81ed0",
+      "bytes": 18609
+    },
+    {
+      "dest": "assets/pals/Astegon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Astegon.png",
+      "sha256": "5f088b1516a5db38618eb770a4b805d8585c0c2ba05ebfc52547bc73f6224d4d",
+      "bytes": 14588
+    },
+    {
+      "dest": "assets/pals/Azurmane.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurmane.png",
+      "sha256": "6c03d7245faf5fc0841685e719d19d1ad5744e1b0f1714ed7aaa8a42f1764ced",
+      "bytes": 15216
+    },
+    {
+      "dest": "assets/pals/Azurobe Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurobe%20Cryst.png",
+      "sha256": "577e752e726b50aeca5276f87853de5750b21b72ec6d2416a8236c82f5258595",
+      "bytes": 13366
+    },
+    {
+      "dest": "assets/pals/Azurobe.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurobe.png",
+      "sha256": "b7d846b99fb26a7461732bdfe3aef7347ce8baa21f9d549df038db3aae389c98",
+      "bytes": 12836
+    },
+    {
+      "dest": "assets/pals/Bakemi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bakemi.png",
+      "sha256": "182708f9afb164148d297465a96dd9401f3642bedf65e36390dc035412ed5073",
+      "bytes": 13813
+    },
+    {
+      "dest": "assets/pals/Bastigor.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bastigor.png",
+      "sha256": "952b5d71347246aa0b375e32756ca74bc3c2f3935782127904bc6a890bfd74c5",
+      "bytes": 17291
+    },
+    {
+      "dest": "assets/pals/Beakon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beakon%20Cryst.png",
+      "sha256": "14df51056531ac1c2ea8e40642b5f476daa21f6e54de851e24dd2088002965c2",
+      "bytes": 12578
+    },
+    {
+      "dest": "assets/pals/Beakon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beakon.png",
+      "sha256": "1be3e76772d7b83d57270ba073678c64ec5c1eaf4d4e3160e9d91ca169dce2a3",
+      "bytes": 12359
+    },
+    {
+      "dest": "assets/pals/Beegarde.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beegarde.png",
+      "sha256": "2b25e7477433af8d3221a434bbeb9794ea7538c5c0cd2a4dd05097b4b23b4d99",
+      "bytes": 13655
+    },
+    {
+      "dest": "assets/pals/Bellanoir Libero.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bellanoir%20Libero.png",
+      "sha256": "15d05c27bfdae1d405dbc6a30261f2b4a607cc7eb8a016b6f8dea6458d934f50",
+      "bytes": 14763
+    },
+    {
+      "dest": "assets/pals/Bellanoir.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bellanoir.png",
+      "sha256": "00a0cb2af8598af470c9c5880bafce6b9f1633bcd4f96500b47209c716172bdf",
+      "bytes": 14447
+    },
+    {
+      "dest": "assets/pals/Blazamut Ryu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazamut%20Ryu.png",
+      "sha256": "04207341c8abf0c9f11d3567739ec8d82f482bd8e70315f00805b5d998806774",
+      "bytes": 19381
+    },
+    {
+      "dest": "assets/pals/Blazamut.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazamut.png",
+      "sha256": "49cdd22dff4be6acfc98ee9edf17f5c63ed1e8bf5c5f42ba512e6032414f25e5",
+      "bytes": 19194
+    },
+    {
+      "dest": "assets/pals/Blazehowl Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazehowl%20Noct.png",
+      "sha256": "8e941cd061b15e30c8cf8203d1ee7ed2e108628a9c7e64315547fa77b6e2b1aa",
+      "bytes": 17874
+    },
+    {
+      "dest": "assets/pals/Blazehowl.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazehowl.png",
+      "sha256": "698f7764859c9daf6e9f06b67b2987d2556824aef26e4c7ec7b67b23d262fc05",
+      "bytes": 16918
+    },
+    {
+      "dest": "assets/pals/Blue Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blue%20Slime.png",
+      "sha256": "1550c927d46975683eff10b778da75f53aafd5143b1146645104a196a0be7aea",
+      "bytes": 4273
+    },
+    {
+      "dest": "assets/pals/Braloha.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Braloha.png",
+      "sha256": "a6ff79b23d15e3eaf74f853d73dd40ccbeb87111e883f1ba10e46684e4b89e16",
+      "bytes": 8792
+    },
+    {
+      "dest": "assets/pals/Bristla.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bristla.png",
+      "sha256": "45888edeb1c6934878fcf00db50d5eeb1469818e7a636dad7307fe39760e1294",
+      "bytes": 16892
+    },
+    {
+      "dest": "assets/pals/Broncherry Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Broncherry%20Aqua.png",
+      "sha256": "47b50c71bb1694cdfed5d0f7a48b17870dc90abf2660df2ef61fcf2b38e2896b",
+      "bytes": 12729
+    },
+    {
+      "dest": "assets/pals/Broncherry.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Broncherry.png",
+      "sha256": "fc1fde43eb9cb8b471b09262586fce899b88fca94bf5944552fb193627f0b0e9",
+      "bytes": 13072
+    },
+    {
+      "dest": "assets/pals/Bulldosu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bulldosu.png",
+      "sha256": "7e0bf58cf8304bbc1c95b261a5279235ade06d5791a9af95f0d1056500ff75ec",
+      "bytes": 18083
+    },
+    {
+      "dest": "assets/pals/Bushi Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bushi%20Noct.png",
+      "sha256": "e768392d46f1eafbe9ae21e3cefa46f20c02043d3ae8f0a6ddd6f9b582c49fb8",
+      "bytes": 16698
+    },
+    {
+      "dest": "assets/pals/Bushi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bushi.png",
+      "sha256": "4610cc62298da783336205548c904a13b909a4343ca9174a17101b8fa14690fd",
+      "bytes": 16869
+    },
+    {
+      "dest": "assets/pals/Caprity Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Caprity%20Noct.png",
+      "sha256": "ef347005b80a4be8ed832aaca22faa2b4728aa4ae0743b8bac69a0850ed5375f",
+      "bytes": 16537
+    },
+    {
+      "dest": "assets/pals/Caprity.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Caprity.png",
+      "sha256": "4af916908b7ccd8fe85a7e56d8fe9682862e630f5929d2f8219b05c9290135bb",
+      "bytes": 16391
+    },
+    {
+      "dest": "assets/pals/Carnibora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Carnibora.png",
+      "sha256": "e486848e344d210ca8e9891eb588c630c812fe2957cc3f1c6bb7f6cc8f77a79a",
+      "bytes": 15846
+    },
+    {
+      "dest": "assets/pals/Cattiva.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cattiva.png",
+      "sha256": "7562319cfeeac10dfe47b73c435843c42ee5a67c99fe39e49690f70f6e332e59",
+      "bytes": 15049
+    },
+    {
+      "dest": "assets/pals/Cave Bat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cave%20Bat.png",
+      "sha256": "65ee665f51725216afd9902757da566b08d9b754dd9bf006bc973facf901cb9f",
+      "bytes": 9260
+    },
+    {
+      "dest": "assets/pals/Cawgnito.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cawgnito.png",
+      "sha256": "0b2a484e2d42740575a03c51357ec2db4d4c7061d071e2ecc10a771dfabf3cf7",
+      "bytes": 9521
+    },
+    {
+      "dest": "assets/pals/Celaray Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celaray%20Lux.png",
+      "sha256": "eff44b6f704344aac38d4bb64c544da02fcef7657de72e12b0fa50e9552b8488",
+      "bytes": 11792
+    },
+    {
+      "dest": "assets/pals/Celaray.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celaray.png",
+      "sha256": "43a71263217f611790c3c4fe37a4e9e00319f598fc61ebafff20c8c1d8d6b685",
+      "bytes": 11530
+    },
+    {
+      "dest": "assets/pals/Celesdir Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celesdir%20Noct.png",
+      "sha256": "2e6546a71ab2a302c71a1992b93b438256cb446b799500cc672c20f6ace811bc",
+      "bytes": 14177
+    },
+    {
+      "dest": "assets/pals/Celesdir.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celesdir.png",
+      "sha256": "3f5c11eb027ddd3e94ca5b7cc885607d59536f890251d8ded7b3887fb69943c0",
+      "bytes": 14425
+    },
+    {
+      "dest": "assets/pals/Chikipi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chikipi.png",
+      "sha256": "6d0ed750446e0c57f0a2258a08ca05405c894e5aac31a45924434d33b4c35ea0",
+      "bytes": 11417
+    },
+    {
+      "dest": "assets/pals/Chillet Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chillet%20Ignis.png",
+      "sha256": "38340835faf709e644e4efb958398e42163fdaccb66e09e1a82d0340331afdb2",
+      "bytes": 11416
+    },
+    {
+      "dest": "assets/pals/Chillet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chillet.png",
+      "sha256": "8222f3aa1289782e0c034c18038d5f918ba90cd18aaa1b0adce8fbc3e7e50567",
+      "bytes": 11575
+    },
+    {
+      "dest": "assets/pals/Cinnamoth.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cinnamoth.png",
+      "sha256": "341dc0113def11b15ea42a7be25d390a9320cedb3d33ea20b59b15bf6c414ed6",
+      "bytes": 16435
+    },
+    {
+      "dest": "assets/pals/Clovee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Clovee.png",
+      "sha256": "0c377f0bd50b3150e7aa69cbd26bf43bc6043e3c007e0a13136dca43064178a0",
+      "bytes": 16686
+    },
+    {
+      "dest": "assets/pals/Cremis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cremis.png",
+      "sha256": "2ea1d8f2dc3f074ff53f76958f4768c70a267a27d452a5b121d928f188a9219e",
+      "bytes": 14524
+    },
+    {
+      "dest": "assets/pals/Croajiro Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Croajiro%20Noct.png",
+      "sha256": "b512f586d15fc70120e77416e6684993ab9f3d49ab5f612ee76c3d873710e4a0",
+      "bytes": 11814
+    },
+    {
+      "dest": "assets/pals/Croajiro.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Croajiro.png",
+      "sha256": "51f029ae0bd7d5121a59a0dc34ba2c63c1dc9e574574bfcce67146d804bee359",
+      "bytes": 11852
+    },
+    {
+      "dest": "assets/pals/Cryolinx Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cryolinx%20Terra.png",
+      "sha256": "0bd4551c1f1c3ac82769118a938de4ed9b81d75c00b116b7277286a0e7afa772",
+      "bytes": 13170
+    },
+    {
+      "dest": "assets/pals/Cryolinx.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cryolinx.png",
+      "sha256": "8fbfd78cf076de3abe495049f64950eba1e65d20fbb618c173a2256a585c2bf6",
+      "bytes": 13819
+    },
+    {
+      "dest": "assets/pals/Daedream.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Daedream.png",
+      "sha256": "a2fd1600408b4dcfd697cbd670e51c8e89496f92f9c766ad97261904f74c3d45",
+      "bytes": 15512
+    },
+    {
+      "dest": "assets/pals/Dandilord.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dandilord.png",
+      "sha256": "99103b12dc6213925ec3b166de8c4b76ce72b8b130d5c3b24af74c1d5fe50e43",
+      "bytes": 18488
+    },
+    {
+      "dest": "assets/pals/Dazemu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazemu.png",
+      "sha256": "418eb849a162ad49c4cfd3db9fc14a8b0e60399034abaf16144a68dbec7ecea0",
+      "bytes": 13172
+    },
+    {
+      "dest": "assets/pals/Dazzi Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazzi%20Noct.png",
+      "sha256": "5bc234b31dc3971af5f1aef5175e57585864c8e5153cbe1ac6294a1085be002a",
+      "bytes": 11046
+    },
+    {
+      "dest": "assets/pals/Dazzi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazzi.png",
+      "sha256": "d0a5abd56e14e80662c6604eadaceb3fff152d164b6bd43de627687a2aa3d7ff",
+      "bytes": 14055
+    },
+    {
+      "dest": "assets/pals/Demon Eye.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Demon%20Eye.png",
+      "sha256": "ddc30035276b5f2749e128f747c2af0a5cede2ad3c3eecb0f0b54ed215625288",
+      "bytes": 12175
+    },
+    {
+      "dest": "assets/pals/Depresso.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Depresso.png",
+      "sha256": "b94b0d5d7a61e00b1c1bf6dc8e4901222d3c2bca2126dbb2509b9c54cb60ade0",
+      "bytes": 14620
+    },
+    {
+      "dest": "assets/pals/Digtoise.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Digtoise.png",
+      "sha256": "006ba1b15a1cd00d7a668c712e99c229665d90816dff7da210a526e4c6792601",
+      "bytes": 16427
+    },
+    {
+      "dest": "assets/pals/Dinossom Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dinossom%20Lux.png",
+      "sha256": "ba5c4d0f06b0667dcce1573519b26255c81ce68cba29d3ebd5d71d38aaa351fa",
+      "bytes": 15555
+    },
+    {
+      "dest": "assets/pals/Dinossom.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dinossom.png",
+      "sha256": "f8c3b004d675e803b1ccba2ab0927fb41f593dbf23b8324128a75b46069f2449",
+      "bytes": 15640
+    },
+    {
+      "dest": "assets/pals/Direhowl.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Direhowl.png",
+      "sha256": "3791194c9eff0552545f9d4fc0d094c8a0d91c6a53e13510886a8efe2792dbfa",
+      "bytes": 13429
+    },
+    {
+      "dest": "assets/pals/Dogen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dogen.png",
+      "sha256": "27c87496e7d88f4a8d1953e0f34541cb9654856717e3581ad213a8b640fe0ee0",
+      "bytes": 15304
+    },
+    {
+      "dest": "assets/pals/Dualith Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dualith%20Noct.png",
+      "sha256": "0bcad04baba279b238669edbe1bddc78381c9e53af8d10d719ed3f4d0bf1a6b4",
+      "bytes": 14141
+    },
+    {
+      "dest": "assets/pals/Dualith.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dualith.png",
+      "sha256": "9f9a92c495bdf5b83bac2dafe5734657f908ddf797cc9006f0f98055c8da6d4e",
+      "bytes": 18837
+    },
+    {
+      "dest": "assets/pals/Dumud Gild.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dumud%20Gild.png",
+      "sha256": "5801a62e44714b00cb153463921f736337dea9ee114964bf8c57edecf29df0d5",
+      "bytes": 13619
+    },
+    {
+      "dest": "assets/pals/Dumud.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dumud.png",
+      "sha256": "90d2f047c7226838ebb18c01846bfcd868685bf08473a694fb349043d0e138c1",
+      "bytes": 13042
+    },
+    {
+      "dest": "assets/pals/Dupin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dupin.png",
+      "sha256": "2a9a31174f70490d0b7c9cf05cba1fa807c370a1bb4db1eb3d7e35330589cf28",
+      "bytes": 16444
+    },
+    {
+      "dest": "assets/pals/Dynamoff.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dynamoff.png",
+      "sha256": "435cb25c01d6d0c69701ae8d6f81468f36f3f17ca0ac8af74993a0f7f841aa03",
+      "bytes": 10770
+    },
+    {
+      "dest": "assets/pals/Eidrolon Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eidrolon%20Ignis.png",
+      "sha256": "62d285f78cf1177083877f8347099a615858d8d430fc53fa187ca53ed99dbd8c",
+      "bytes": 13455
+    },
+    {
+      "dest": "assets/pals/Eidrolon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eidrolon.png",
+      "sha256": "628ff143e53bb2191a561409f18ff4419756b206604ec7b81fe9e231b3c4905e",
+      "bytes": 14166
+    },
+    {
+      "dest": "assets/pals/Eikthyrdeer Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eikthyrdeer%20Terra.png",
+      "sha256": "9dcdc30bb30687634023d175c78bcd667a9536ecfe981405d2e8df8de49f6100",
+      "bytes": 14338
+    },
+    {
+      "dest": "assets/pals/Eikthyrdeer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eikthyrdeer.png",
+      "sha256": "c8a7e26b197e65c8ee6fac8a4c065590d754a8214091740b1165065c13dc2e37",
+      "bytes": 14370
+    },
+    {
+      "dest": "assets/pals/Elgrove Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elgrove%20Cryst.png",
+      "sha256": "02e6351e0d392381e39eb6678e85d335f617fb42b1fbc4fc89bd4afd574b533b",
+      "bytes": 19135
+    },
+    {
+      "dest": "assets/pals/Elgrove.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elgrove.png",
+      "sha256": "954a72c0d5263b09f32559b1210d85a8c13e5be8c9f6c104d5fc5743170496f9",
+      "bytes": 18396
+    },
+    {
+      "dest": "assets/pals/Elizabee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elizabee.png",
+      "sha256": "13a5d8e5c4c068af9a4d479b99105b5039e60f3cbe0668ae52988ad442a12d9f",
+      "bytes": 14194
+    },
+    {
+      "dest": "assets/pals/Elphidran Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elphidran%20Aqua.png",
+      "sha256": "814c79aba03799f5244ac1b7fc7a66339547a4af70cc1cccc099370817cd38bf",
+      "bytes": 8726
+    },
+    {
+      "dest": "assets/pals/Elphidran.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elphidran.png",
+      "sha256": "a68349ff4d16093856c9ac35e7529ef58b0e943be22d8afbca37a1f3bec36d26",
+      "bytes": 9995
+    },
+    {
+      "dest": "assets/pals/Enchanted Sword.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Enchanted%20Sword.png",
+      "sha256": "a429445ae6d5d6879affcc479cc722710352996a20669bbf899514bfe763daa2",
+      "bytes": 6770
+    },
+    {
+      "dest": "assets/pals/Eye of Cthulhu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eye%20of%20Cthulhu.png",
+      "sha256": "22088cdf0b1ac7a9895dc144d789a11e9c085ae3aad570f56ab02e40f0340fc0",
+      "bytes": 14581
+    },
+    {
+      "dest": "assets/pals/Faleris Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Faleris%20Aqua.png",
+      "sha256": "ea8e64694e198a379dec01c123331c96a32a77edfa6a1fa04930fb71fdabeebc",
+      "bytes": 13310
+    },
+    {
+      "dest": "assets/pals/Faleris.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Faleris.png",
+      "sha256": "0c500735d15942fc508d1cbd141ac815fea90d445717cdbd6ce7ad30cf399b73",
+      "bytes": 13252
+    },
+    {
+      "dest": "assets/pals/Felbat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Felbat.png",
+      "sha256": "4cb386fdc055ad85485f77cd6da4733468d41331a82570ec61b73ee99c8686b9",
+      "bytes": 11917
+    },
+    {
+      "dest": "assets/pals/Fenglope Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fenglope%20Lux.png",
+      "sha256": "db8ac5c825ca5f514a89e9619f8583aac7b8637fedd5fe12d5bbc6d75d6bbec3",
+      "bytes": 12298
+    },
+    {
+      "dest": "assets/pals/Fenglope.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fenglope.png",
+      "sha256": "aec37189679053e52aaa925f3522cc5b48c892ec39be50a297f38c4f02fe4335",
+      "bytes": 13039
+    },
+    {
+      "dest": "assets/pals/Finsider Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Finsider%20Ignis.png",
+      "sha256": "78712b64d51214725919ee27403eb5bf6d963492d12739d0b9d4203909019f41",
+      "bytes": 11374
+    },
+    {
+      "dest": "assets/pals/Finsider.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Finsider.png",
+      "sha256": "6b48f01dee746bc0c7587616e3575b1b48c25410dd2c1cefbccb94eead97edfd",
+      "bytes": 11177
+    },
+    {
+      "dest": "assets/pals/Flambelle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flambelle.png",
+      "sha256": "86c7eb8e6cd1b80db2db4c9be7efeb42b541f477a2dbc7b2174f50ef092e411e",
+      "bytes": 10360
+    },
+    {
+      "dest": "assets/pals/Flaracle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flaracle.png",
+      "sha256": "7cc019190443788294902ec17b3208b8bedefa9c94654eb44f33e7681168c299",
+      "bytes": 14483
+    },
+    {
+      "dest": "assets/pals/Flopie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flopie.png",
+      "sha256": "0d1fb94e934c7a2ea094b4c49f419f95f414fd1d50b9f14556c8b6a734fb58fe",
+      "bytes": 16759
+    },
+    {
+      "dest": "assets/pals/Foxcicle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxcicle.png",
+      "sha256": "18041a85fecc338c173f4eb220d815c933fae9690e7d6681e0ea811ca98c2e6d",
+      "bytes": 14212
+    },
+    {
+      "dest": "assets/pals/Foxparks Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxparks%20Cryst.png",
+      "sha256": "a7b6b11e83ce6da085f0dc0a9000d4362a066f98006f8eea19cf39b0b20f3c58",
+      "bytes": 12488
+    },
+    {
+      "dest": "assets/pals/Foxparks.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxparks.png",
+      "sha256": "c73f8ca50561b459e5b2c836027a9e84cf9ccad5b675bdd2fa91f7b915ae5e9b",
+      "bytes": 11600
+    },
+    {
+      "dest": "assets/pals/Frostallion Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostallion%20Noct.png",
+      "sha256": "e6d4ac253f45074986dcd323f66aadc93368f976eea7e0b62cf5be305c247d2d",
+      "bytes": 15610
+    },
+    {
+      "dest": "assets/pals/Frostallion.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostallion.png",
+      "sha256": "a245b6f71d954d02b6ad9e3fc9feff0127f834fe315f44d176ed44901e1bd971",
+      "bytes": 15786
+    },
+    {
+      "dest": "assets/pals/Frostplume.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostplume.png",
+      "sha256": "a238a820aa081c6fe44e7c640de41d7f51e105b162a103e0ba2e5cc9e47352c5",
+      "bytes": 6882
+    },
+    {
+      "dest": "assets/pals/Fuack Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuack%20Ignis.png",
+      "sha256": "fda0131831a7e4869b9564b6f970ef22507cf343476fe5ff6eb202f129a1032b",
+      "bytes": 12937
+    },
+    {
+      "dest": "assets/pals/Fuack.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuack.png",
+      "sha256": "7d72b5f2893168d008c787bf5a862678e383024d6169b5eac7962561716da085",
+      "bytes": 12720
+    },
+    {
+      "dest": "assets/pals/Fuddler.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuddler.png",
+      "sha256": "831c72d8aee1e625d90900f42a2131fa18a1fa1289914fb8fd6e07fa01ec69ad",
+      "bytes": 12812
+    },
+    {
+      "dest": "assets/pals/Galeclaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Galeclaw.png",
+      "sha256": "cd3e678bb65fc181cc0912e492d6c7aed5656af0ea74779f53bacd0b60ab82f6",
+      "bytes": 11192
+    },
+    {
+      "dest": "assets/pals/Ghangler Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ghangler%20Ignis.png",
+      "sha256": "e8a768382ce94133c09f52972eab4989e9bd51032d598198da6e33377700f230",
+      "bytes": 14902
+    },
+    {
+      "dest": "assets/pals/Ghangler.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ghangler.png",
+      "sha256": "667ff07ba92a86c00780a783ec440a2eb80e409f997082bd6847d5495e6e5237",
+      "bytes": 14736
+    },
+    {
+      "dest": "assets/pals/Gildane.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gildane.png",
+      "sha256": "ece3d8ea85250ada4539ff022225673a0d9340e9557ff83c1b8b4602f6879b0e",
+      "bytes": 13955
+    },
+    {
+      "dest": "assets/pals/Gildra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gildra.png",
+      "sha256": "a448a5b8de4dfc4d5ab69e4cec3ee66e5e290398efe6c4718aee9a0522f7c866",
+      "bytes": 18642
+    },
+    {
+      "dest": "assets/pals/Gloopie Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gloopie%20Primo.png",
+      "sha256": "87c3123d644eb6507538dae32980f37be4bf5747bdc38cecb8a2cfd2d3b43de3",
+      "bytes": 15218
+    },
+    {
+      "dest": "assets/pals/Gloopie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gloopie.png",
+      "sha256": "102750f938f67c1f6c3c4c6e8b803c2c29679ac5049e4c85002c0e8aa9589406",
+      "bytes": 13917
+    },
+    {
+      "dest": "assets/pals/Gobfin Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gobfin%20Ignis.png",
+      "sha256": "a83eda26447537fd6a76256729a44ebbb7aa5303d49b2c2bdc4e59b1b8ce1a41",
+      "bytes": 13664
+    },
+    {
+      "dest": "assets/pals/Gobfin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gobfin.png",
+      "sha256": "c8007bd88e8ec5f6828d1a3b5c97ae59c768fd92a3ee77186ba307b685f8fea5",
+      "bytes": 13954
+    },
+    {
+      "dest": "assets/pals/Gorirat Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gorirat%20Terra.png",
+      "sha256": "97cbc1513b3e79ba47f335ed234ad150d8b8bab7270bda3f09ef71437076aa31",
+      "bytes": 14484
+    },
+    {
+      "dest": "assets/pals/Gorirat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gorirat.png",
+      "sha256": "b27c7dc9f2eb1d3af40f0f7bd24a9395bd8941f610f7eb9881652fbd043733a9",
+      "bytes": 15202
+    },
+    {
+      "dest": "assets/pals/Green Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Green%20Slime.png",
+      "sha256": "d01fcb7ac01ab78469f219348577cfccf3d7c459a04681dc5fce915410fb7623",
+      "bytes": 4756
+    },
+    {
+      "dest": "assets/pals/Grintale.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Grintale.png",
+      "sha256": "7d9303724801256245450aa4f8e71dcadb95658ac407075e0b6e5ba1aa3b25bc",
+      "bytes": 14876
+    },
+    {
+      "dest": "assets/pals/Grizzbolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Grizzbolt.png",
+      "sha256": "e3b8fc5c302576ead6b302738bbbdb672719b5ad68c1d9a707cd2cce693b59a0",
+      "bytes": 13951
+    },
+    {
+      "dest": "assets/pals/Gumoss.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gumoss.png",
+      "sha256": "d0e592edbceaf14299365abc655a7eed9609c7e8b9b1f93b4b84b4e17751c014",
+      "bytes": 14626
+    },
+    {
+      "dest": "assets/pals/Hangyu Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hangyu%20Cryst.png",
+      "sha256": "ed0093aab4fe6327784c4e2628b3bc3caf6e6b1f04b8bbf8f34a7a0619fc1621",
+      "bytes": 9474
+    },
+    {
+      "dest": "assets/pals/Hangyu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hangyu.png",
+      "sha256": "281b58c1520d5018384323ad65d200a697d9d872dd73a17a8a629fcd8179280a",
+      "bytes": 9287
+    },
+    {
+      "dest": "assets/pals/Hartalis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hartalis.png",
+      "sha256": "99e68a05c9c4b6db2b0a71ba88a3cb9924453b3dc2cf759724694d8db94b8af1",
+      "bytes": 14822
+    },
+    {
+      "dest": "assets/pals/Helzephyr Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Helzephyr%20Lux.png",
+      "sha256": "f42fa6b50912e2f266834c0a089702ef74e3454fcfac995d01cca51efb2f711f",
+      "bytes": 15276
+    },
+    {
+      "dest": "assets/pals/Helzephyr.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Helzephyr.png",
+      "sha256": "e51f435a72606ebde100a26db70da2c67699de82876c1b3767df99781977b7cc",
+      "bytes": 15187
+    },
+    {
+      "dest": "assets/pals/Herbil.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Herbil.png",
+      "sha256": "d9f54c5a35e5dbdc7a8487b6e19065865af1792f757a11da0736a2d229718c72",
+      "bytes": 17457
+    },
+    {
+      "dest": "assets/pals/Hoocrates.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hoocrates.png",
+      "sha256": "0487cb97b58bf34ed781e6c1d919bbd6a6278e54b40418c0c1b5b1cebf5e0c85",
+      "bytes": 15418
+    },
+    {
+      "dest": "assets/pals/Hoodle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hoodle.png",
+      "sha256": "995bb73ab395ebfd0a958c8446e3cf7dc6dc29c6b6153e8e9a910b9c72fc4b17",
+      "bytes": 12188
+    },
+    {
+      "dest": "assets/pals/Icelyn.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Icelyn.png",
+      "sha256": "393d0fa4da01eb293eb0b96a2fafd96b8e08394a2aa3b67203869e2a179d063b",
+      "bytes": 15514
+    },
+    {
+      "dest": "assets/pals/Illuminant Bat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Illuminant%20Bat.png",
+      "sha256": "247e6b784bc641c8cb77309c37b7d19a5646c60f5d540956909d96580db9386c",
+      "bytes": 9132
+    },
+    {
+      "dest": "assets/pals/Illuminant Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Illuminant%20Slime.png",
+      "sha256": "aecbfff719734c95bf98b2d29d53cfdc14730a4215e982d8060b61ed97816ecc",
+      "bytes": 4588
+    },
+    {
+      "dest": "assets/pals/Incineram Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Incineram%20Noct.png",
+      "sha256": "24f4d5a94cc74261f35a411106779273ce686c717113e07505f7a232976fa294",
+      "bytes": 17717
+    },
+    {
+      "dest": "assets/pals/Incineram.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Incineram.png",
+      "sha256": "74b1a1da0cfef1053ce56bd7e9bef819a11de3597c41e5839ed24c19589c87ce",
+      "bytes": 15356
+    },
+    {
+      "dest": "assets/pals/Jelliette.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jelliette.png",
+      "sha256": "d10596d5ace8176de794cfbff07ace7b72fd604816128c188ccad5127f2ebfd7",
+      "bytes": 17324
+    },
+    {
+      "dest": "assets/pals/Jellroy.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jellroy.png",
+      "sha256": "8d82734923df8ad6b1550ead0f3812a6d1ae989559f1a3ff0f4eff9f6156ccdb",
+      "bytes": 14654
+    },
+    {
+      "dest": "assets/pals/Jetragon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jetragon.png",
+      "sha256": "e5c8afccd05fcb1f5fc3f4b568bfcdd1cd9570d2a5cae12f5f1bf5f65aa64c04",
+      "bytes": 11535
+    },
+    {
+      "dest": "assets/pals/Jolthog Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jolthog%20Cryst.png",
+      "sha256": "d8baade98e6d2b67096a059cf8283c3f29a36d179632f6e3c81e24cd84e58115",
+      "bytes": 15053
+    },
+    {
+      "dest": "assets/pals/Jolthog.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jolthog.png",
+      "sha256": "6521e8e038c749f4b269a42de6549cecddb20ea38e2f00fbdc2286a2933e3c52",
+      "bytes": 14185
+    },
+    {
+      "dest": "assets/pals/Jormuntide Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jormuntide%20Ignis.png",
+      "sha256": "c5e45a022d228ad8234ef9b6ef60954bfd944ab9972f7ee29a2bd9e4a7a5bf19",
+      "bytes": 16429
+    },
+    {
+      "dest": "assets/pals/Jormuntide.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jormuntide.png",
+      "sha256": "5ce070ba694f3bbb52052ebe7371da8f62c02596e380857ce54fe4039ca82c44",
+      "bytes": 17565
+    },
+    {
+      "dest": "assets/pals/Katress Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Katress%20Ignis.png",
+      "sha256": "c0f719c365adf5e345cfae18145f5e4c5573e32e5bb6f5f96f778b2142b8b879",
+      "bytes": 17378
+    },
+    {
+      "dest": "assets/pals/Katress.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Katress.png",
+      "sha256": "3b0f2617033845c6284472f7cfb80b76eab13dd6897496eee858baa65f1a4f6b",
+      "bytes": 17402
+    },
+    {
+      "dest": "assets/pals/Kelpsea Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kelpsea%20Ignis.png",
+      "sha256": "82ed4d6ba7c5b98036b96181fd2141da8e800e396c7a5b6c53c2f5e752fbbea1",
+      "bytes": 9402
+    },
+    {
+      "dest": "assets/pals/Kelpsea.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kelpsea.png",
+      "sha256": "3583b882a599c1e708892dc690f1c94d70434ab73bb8dc7f97b524b875f083d7",
+      "bytes": 9779
+    },
+    {
+      "dest": "assets/pals/Kikit.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kikit.png",
+      "sha256": "3c8efd2228bf0911983c400cb579c460d58a18f300641bc80eec568fdcc66583",
+      "bytes": 10451
+    },
+    {
+      "dest": "assets/pals/Killamari Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Killamari%20Primo.png",
+      "sha256": "4e1e8698f7c9f17ea3983770dc31c60ca8207248e7c3a8641b4e7602c077caeb",
+      "bytes": 12612
+    },
+    {
+      "dest": "assets/pals/Killamari.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Killamari.png",
+      "sha256": "934130ec4d004be5e30bde573d3e6062ece1599f9048de18e156061873bd80c7",
+      "bytes": 12510
+    },
+    {
+      "dest": "assets/pals/Kingpaca Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kingpaca%20Cryst.png",
+      "sha256": "3c9265ea7e158a72d216f4f343141807819faac09d34af9612e961cb802719bc",
+      "bytes": 11786
+    },
+    {
+      "dest": "assets/pals/Kingpaca.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kingpaca.png",
+      "sha256": "dfa6b083986b82c8a38f643868b20c2f45b1ffb352dafaac2c94aa227fe6df09",
+      "bytes": 11289
+    },
+    {
+      "dest": "assets/pals/Kitsun Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kitsun%20Noct.png",
+      "sha256": "43be528fcfa6e34d1545acdf21a93e2e4671d9e66f49c386e7bcb215e9bfe655",
+      "bytes": 17420
+    },
+    {
+      "dest": "assets/pals/Kitsun.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kitsun.png",
+      "sha256": "0bb2ea04a1ec5cd710f8d8f73eb12c0f87dc2dc571ae92049ffb93a067859c0c",
+      "bytes": 17292
+    },
+    {
+      "dest": "assets/pals/Knocklem Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Knocklem%20Ignis.png",
+      "sha256": "33ebf8d273b1221c086ee035dcb48813e7c8641a3aa2f22a9b1716d71ef5fe34",
+      "bytes": 17654
+    },
+    {
+      "dest": "assets/pals/Knocklem.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Knocklem.png",
+      "sha256": "93f8791545c8227990e2d70d4d1cb2bee4924efe9f9a1c6e2f434d9b4a0bc462",
+      "bytes": 17747
+    },
+    {
+      "dest": "assets/pals/Lamball.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lamball.png",
+      "sha256": "8ebf3a8901efd497f736b28c45da6443a24abcac1c29fab3127fa6e14f7616c8",
+      "bytes": 14675
+    },
+    {
+      "dest": "assets/pals/Lapiron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lapiron.png",
+      "sha256": "7e7abcad4c10266d2a5fd7456a4d2f0d14d9a00b6d99057ea51a8f3360a745a3",
+      "bytes": 17880
+    },
+    {
+      "dest": "assets/pals/Lapure.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lapure.png",
+      "sha256": "fa05b119d14e84350c6ed1e50b95a8946e8192f3f80f38dbf5942a725f88a81f",
+      "bytes": 17646
+    },
+    {
+      "dest": "assets/pals/Leafan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leafan.png",
+      "sha256": "28430c22e9eced74917543ade14929b7772ac1ca16bb4ab69cbf9ab47323b0a6",
+      "bytes": 14673
+    },
+    {
+      "dest": "assets/pals/Leezpunk Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leezpunk%20Ignis.png",
+      "sha256": "8c308e9044c5045a5cd09ad6649622fd890c6f023755ab65db78caa8715032cf",
+      "bytes": 12764
+    },
+    {
+      "dest": "assets/pals/Leezpunk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leezpunk.png",
+      "sha256": "026e779d987e128527c4f92ebdd1618b445245154bae8eb2bd08644f51b649a4",
+      "bytes": 12293
+    },
+    {
+      "dest": "assets/pals/Lifmunk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lifmunk.png",
+      "sha256": "f87223d38f2bc4391dc89d1b8f420bd6f3cba8f60a92af2e621b5a3976eda292",
+      "bytes": 15928
+    },
+    {
+      "dest": "assets/pals/Loomen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loomen.png",
+      "sha256": "87947d0ff8565e2d2022923be42916fc4950959b5b10a816d556374cce997cf1",
+      "bytes": 12828
+    },
+    {
+      "dest": "assets/pals/Loupmoon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loupmoon%20Cryst.png",
+      "sha256": "cb5985114bd4eb4672c997dd14a125a9f1ae68400440b197623b131e8803db51",
+      "bytes": 16253
+    },
+    {
+      "dest": "assets/pals/Loupmoon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loupmoon.png",
+      "sha256": "a11e6f695e4775f4f2454bbc4c964b67ee9d21b24bf6736e30081176f8e60029",
+      "bytes": 14468
+    },
+    {
+      "dest": "assets/pals/Lovander.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lovander.png",
+      "sha256": "da813c46e068985c03c9486ec116cd1bde9c1d35bfa29c8c85e967f888281a48",
+      "bytes": 14633
+    },
+    {
+      "dest": "assets/pals/Lullu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lullu.png",
+      "sha256": "7fc5bd14a19b1c9d2c410be4d67ae280f71a285a742b7b3a08c6dbcba2506746",
+      "bytes": 14741
+    },
+    {
+      "dest": "assets/pals/Lunaris.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lunaris.png",
+      "sha256": "b6fe06328d55b849dcafaba7c4573cd00ab48c322e9f64386acdf24db9f4a99b",
+      "bytes": 13623
+    },
+    {
+      "dest": "assets/pals/Lyleen Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lyleen%20Noct.png",
+      "sha256": "26b876579e421f0d94734cd2f63065c4e171e80c952403bb9bf8268f56212744",
+      "bytes": 18972
+    },
+    {
+      "dest": "assets/pals/Lyleen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lyleen.png",
+      "sha256": "2916a7044a7e93547c07b92544871174d0105302b5ae8f928a0ba7ec676ceb1e",
+      "bytes": 17947
+    },
+    {
+      "dest": "assets/pals/Majex.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Majex.png",
+      "sha256": "23b8421d2d7f1d2b9b855d213b36fcbe3d0a89079662630db1ce3b6b8af801d8",
+      "bytes": 16053
+    },
+    {
+      "dest": "assets/pals/Mammorest Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mammorest%20Cryst.png",
+      "sha256": "82e7a6d3a7d0181beb221020be95934d4fe1dc4ce85d8775ec43f6d3e048cd9a",
+      "bytes": 17223
+    },
+    {
+      "dest": "assets/pals/Mammorest.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mammorest.png",
+      "sha256": "ff2fa3728d00b25838951d8abc6c84ad04336c9878ee9f1ed28df3643d7c10a8",
+      "bytes": 16521
+    },
+    {
+      "dest": "assets/pals/Maraith.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Maraith.png",
+      "sha256": "452e0c722e79bcac13541b48793e21714ded6c11b04822ff3b3b6633bcfdabc1",
+      "bytes": 14519
+    },
+    {
+      "dest": "assets/pals/Mau Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mau%20Cryst.png",
+      "sha256": "ef1bd26f2fb012523548732361408f2894600d79122e1a7b472fda66622b942e",
+      "bytes": 11943
+    },
+    {
+      "dest": "assets/pals/Mau.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mau.png",
+      "sha256": "b28aeac5dfdd30242dfbd5bca92fba8f0585bd9a0b8c04880f3260d9e353a77a",
+      "bytes": 10712
+    },
+    {
+      "dest": "assets/pals/Melpaca.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Melpaca.png",
+      "sha256": "18cee3973871d3a8485da716aeeab45f224a0ed3045a5cbda3e86c7221461fad",
+      "bytes": 9337
+    },
+    {
+      "dest": "assets/pals/Menasting Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Menasting%20Terra.png",
+      "sha256": "a59ea7813abb0dedbaa4769c3c609a11cf8ad72eee1de126bebabfdcb1f90f07",
+      "bytes": 17695
+    },
+    {
+      "dest": "assets/pals/Menasting.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Menasting.png",
+      "sha256": "4a0a12b2da7f9402647b47a198081a94c00d1e50219012e18710f5d6b1f5bb23",
+      "bytes": 17227
+    },
+    {
+      "dest": "assets/pals/Mimog.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mimog.png",
+      "sha256": "f0092e9bf8cec748735351e9f2911c5b5492fca28865e61dcb5173264026c8ff",
+      "bytes": 16346
+    },
+    {
+      "dest": "assets/pals/Moldron Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Moldron%20Cryst.png",
+      "sha256": "f50f282819e4efa1d63e8234eb51537ca759a63afa47a68cff849574881ad26a",
+      "bytes": 17237
+    },
+    {
+      "dest": "assets/pals/Moldron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Moldron.png",
+      "sha256": "297fccd4e4ba2deb8d5c724076dfbb356b36a79cac08cee99a524b81516d2698",
+      "bytes": 16214
+    },
+    {
+      "dest": "assets/pals/Mossanda Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mossanda%20Lux.png",
+      "sha256": "1f00bccdf392c82cce3a9cf1ddab59c406c52d1fa8d6d05c212519c5e9d1cd2e",
+      "bytes": 16322
+    },
+    {
+      "dest": "assets/pals/Mossanda.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mossanda.png",
+      "sha256": "c300b4b3ba58d4e4000dbcdbec4e56bd16cb8af31fe15f9df961f7943266e80e",
+      "bytes": 15871
+    },
+    {
+      "dest": "assets/pals/Mozzarina.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mozzarina.png",
+      "sha256": "78fdaa95a82e38294755e1d20200017cd0504614cdd433e3bbf4957b495350ae",
+      "bytes": 13966
+    },
+    {
+      "dest": "assets/pals/Muffly.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Muffly.png",
+      "sha256": "c0a0dd992caa10a4f858684fac77439bd4bdbfded36a166d41089d6111465939",
+      "bytes": 15966
+    },
+    {
+      "dest": "assets/pals/Munchill.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Munchill.png",
+      "sha256": "c2452b949397057a20bf21b47d3a39a65710b7ef31b725a0203d830b2fa3313f",
+      "bytes": 12203
+    },
+    {
+      "dest": "assets/pals/Mycora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mycora.png",
+      "sha256": "0482b7bb0367c678b7ad26f7af3a7994e9e99a766b9831bf076ad033718dc653",
+      "bytes": 20379
+    },
+    {
+      "dest": "assets/pals/Necromus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Necromus.png",
+      "sha256": "4c1fe6c8c03cb05678f0572587197d033d7bc5f5a0d152cb19b33fb8fab7ac6c",
+      "bytes": 15212
+    },
+    {
+      "dest": "assets/pals/Needoll Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Needoll%20Noct.png",
+      "sha256": "634a2a95cd1db62a28e7f0e4a7386d10ff1aa00fb6df80aa0c48eb5b65ba5b0b",
+      "bytes": 14309
+    },
+    {
+      "dest": "assets/pals/Needoll.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Needoll.png",
+      "sha256": "b13fe885bb2eea33a444351b487cf4cf50c5bbdf176199c181b573d86119fe15",
+      "bytes": 13947
+    },
+    {
+      "dest": "assets/pals/Neptilius.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Neptilius.png",
+      "sha256": "81d330c2279cb906cb638ad167264988752ebb5ad9987fcf274cf8241a6d5eca",
+      "bytes": 17610
+    },
+    {
+      "dest": "assets/pals/Nitemary Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitemary%20Botan.png",
+      "sha256": "4dee7917f6f5ee3b6d35baed7a88ad027302b1f5d5088f5f34b3bbd5f036d6f1",
+      "bytes": 15868
+    },
+    {
+      "dest": "assets/pals/Nitemary.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitemary.png",
+      "sha256": "3da81db8cfca584501f6d49a4080d290d10b060cc5122bab9ab8497e9280ef3a",
+      "bytes": 15983
+    },
+    {
+      "dest": "assets/pals/Nitewing.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitewing.png",
+      "sha256": "64bf4f521af7225f00a1e57100b1a9fc8270695c67d8f9da3ba9767d9d52078d",
+      "bytes": 14751
+    },
+    {
+      "dest": "assets/pals/Nox.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nox.png",
+      "sha256": "e1cfc4a5337ab5b9038c7daa32b0f263af68930b2183878eeca2e167a65080fa",
+      "bytes": 14788
+    },
+    {
+      "dest": "assets/pals/Nyafia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nyafia.png",
+      "sha256": "9d107eeacb4f2ad99907d6f629d4163fbe3782c0e7ebcb00585faaef87aaecca",
+      "bytes": 16400
+    },
+    {
+      "dest": "assets/pals/Omascul.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Omascul.png",
+      "sha256": "8181a3448bbf5794ee578ac514b7b004120e7d47be83eaa1aed43729fcf79b54",
+      "bytes": 13089
+    },
+    {
+      "dest": "assets/pals/Ophydia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ophydia.png",
+      "sha256": "ebcd792d8c8632bf97dd34c4e25fbcdb7d23725a9ae6c909eb54091686e04300",
+      "bytes": 15129
+    },
+    {
+      "dest": "assets/pals/Orserk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Orserk.png",
+      "sha256": "a27180b9ae1bb970f06829e45be7b2b3e86059850dc6d68ad479df500ba323f5",
+      "bytes": 12600
+    },
+    {
+      "dest": "assets/pals/Paladius.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Paladius.png",
+      "sha256": "fc9abcd7762c90b54bc1709bc4dec66c6bec6a8b3b529f27249f7cc4c73be8f1",
+      "bytes": 18565
+    },
+    {
+      "dest": "assets/pals/Palumba.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Palumba.png",
+      "sha256": "526445ff2b5457836dbdfaa98df616e08b5b37cf91a04478e7d813177066cce2",
+      "bytes": 14804
+    },
+    {
+      "dest": "assets/pals/Panthalus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Panthalus.png",
+      "sha256": "a2e959a8fab4396e8b77cf284984e2fa5dd17c1024b0e2453426aa8ca721aeb4",
+      "bytes": 16131
+    },
+    {
+      "dest": "assets/pals/Pengullet Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pengullet%20Lux.png",
+      "sha256": "d7cf6957421af96cc0ee9dc519b81a567a23a86519f58e51e9a203430d67f1a4",
+      "bytes": 11976
+    },
+    {
+      "dest": "assets/pals/Pengullet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pengullet.png",
+      "sha256": "3df730d1a251a9f1ea53808165583598b8ab5f98a46e5f69337f3cad3bf2ce85",
+      "bytes": 12172
+    },
+    {
+      "dest": "assets/pals/Penking Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Penking%20Lux.png",
+      "sha256": "4a879641ab4707660d2b65698f08a65fe92b93b2ac040ee002ccfa5d97ca2e6d",
+      "bytes": 17577
+    },
+    {
+      "dest": "assets/pals/Penking.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Penking.png",
+      "sha256": "808198bd1aee98bb766a30d41cab0db420d91a43f1f05cd51fd2a490e7ee038c",
+      "bytes": 16877
+    },
+    {
+      "dest": "assets/pals/Petallia Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Petallia%20Ignis.png",
+      "sha256": "f5b2a242e5bb56abf391234a905eaf87ee377966018863676aaf6340c64f6b77",
+      "bytes": 17785
+    },
+    {
+      "dest": "assets/pals/Petallia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Petallia.png",
+      "sha256": "b916b8c4b697a8b88117d6993a96fc03e01b394eb6a3b76e63d5918127ae0879",
+      "bytes": 17177
+    },
+    {
+      "dest": "assets/pals/Pierdon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pierdon%20Cryst.png",
+      "sha256": "67fdd26abf7a5f6fb67a8e389642256cbb4ab3f9b72649f86fd65a0946ac5aca",
+      "bytes": 17635
+    },
+    {
+      "dest": "assets/pals/Pierdon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pierdon.png",
+      "sha256": "21750e921707c2cc06933db3c343c626086386dade8ee28ae0eb2d78a3be0f06",
+      "bytes": 17593
+    },
+    {
+      "dest": "assets/pals/Polapup Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Polapup%20Terra.png",
+      "sha256": "721c693f4268c3ab91785f824f543e1168267fc85f168c0004ae7fc31a25189b",
+      "bytes": 10845
+    },
+    {
+      "dest": "assets/pals/Polapup.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Polapup.png",
+      "sha256": "4eb270d516e0918ca695b2da039e15aa921be5da47bae277a266a90b0672bf0b",
+      "bytes": 10465
+    },
+    {
+      "dest": "assets/pals/Prixter Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prixter%20Lux.png",
+      "sha256": "b72c5c1882f7855528be412d064f0097c2847165c87b4678e9950fc27441b7a1",
+      "bytes": 16335
+    },
+    {
+      "dest": "assets/pals/Prixter.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prixter.png",
+      "sha256": "beb0f5cd2132c964f1a596f2500b17f0773c8fcc46d729a6afc27cb57e118bca",
+      "bytes": 16034
+    },
+    {
+      "dest": "assets/pals/Prunelia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prunelia.png",
+      "sha256": "021796370e437bf48c3a3efc1ff24eb1e95785d4a1547b4b922fc1b08b4b8c89",
+      "bytes": 19724
+    },
+    {
+      "dest": "assets/pals/Puffolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Puffolt.png",
+      "sha256": "731464d6ac0956dc402e2862d11044e019a8144dcdbfb8c471e4388fc340feb3",
+      "bytes": 13849
+    },
+    {
+      "dest": "assets/pals/Pupperai.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pupperai.png",
+      "sha256": "f7cf5ac53916aa9836163d734852bc6188c8f2f2d62e86e659a736c2c87d3ec6",
+      "bytes": 13229
+    },
+    {
+      "dest": "assets/pals/Purple Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Purple%20Slime.png",
+      "sha256": "a90ad2f808f78f8fdc2ba831f7ddb0f93f0e27c9618fb18420936e8a91887676",
+      "bytes": 4918
+    },
+    {
+      "dest": "assets/pals/Pyrin Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pyrin%20Noct.png",
+      "sha256": "8a857b780ea4a52438a1600f290692ccd7ab203813c20d1fc0a1db6288843362",
+      "bytes": 16901
+    },
+    {
+      "dest": "assets/pals/Pyrin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pyrin.png",
+      "sha256": "273dfba708b146ef72a77ef6907b6eb9ef217f67fea2eedd5630fe55f4c55f52",
+      "bytes": 16028
+    },
+    {
+      "dest": "assets/pals/Quivern Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Quivern%20Botan.png",
+      "sha256": "f041b5114c768213d590d94fd7a09baecc6d8cabe4d654e5bc83b137335e7b44",
+      "bytes": 16411
+    },
+    {
+      "dest": "assets/pals/Quivern.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Quivern.png",
+      "sha256": "1395b3ab7830a8e2fd3fac73fb63099cf4c877f6bf233a6f2abf546e1ca72464",
+      "bytes": 16541
+    },
+    {
+      "dest": "assets/pals/Ragnahawk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ragnahawk.png",
+      "sha256": "520bcbfa24000238a35fe9224b1be1cf5b830d4315cd19883b4bf3c9bcb23fdb",
+      "bytes": 15141
+    },
+    {
+      "dest": "assets/pals/Rainbow Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rainbow%20Slime.png",
+      "sha256": "c683a6fcbb32175131055397726791a6842dd9633fade6599df61c6f69031364",
+      "bytes": 8801
+    },
+    {
+      "dest": "assets/pals/Rayhound Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rayhound%20Cryst.png",
+      "sha256": "8a8184b42a84a019451d7b427147e128506d24fa0002415fbd0d4b6f85c9fde6",
+      "bytes": 13184
+    },
+    {
+      "dest": "assets/pals/Rayhound.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rayhound.png",
+      "sha256": "aef3b5e876039cd11fad49af7709ee3098ef0faf45e654a31e24ecfa449583d0",
+      "bytes": 13023
+    },
+    {
+      "dest": "assets/pals/Red Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Red%20Slime.png",
+      "sha256": "386803ccbec0dfad8c365a31fdd604bd5f50a676e98b182adc3abc94d4edf47f",
+      "bytes": 4739
+    },
+    {
+      "dest": "assets/pals/Reindrix.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reindrix.png",
+      "sha256": "7ee346a5f4ed9c2818fa59799e637bc12cb63af43199ab11c9b3741f44cf7431",
+      "bytes": 17772
+    },
+    {
+      "dest": "assets/pals/Relaxaurus Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Relaxaurus%20Lux.png",
+      "sha256": "8a4575cf063752f6bc909de90cf740887d9107f23c1fd5ff3300ac16b49b1938",
+      "bytes": 10058
+    },
+    {
+      "dest": "assets/pals/Relaxaurus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Relaxaurus.png",
+      "sha256": "2b5f7a68902883d09acb1f3c9b12ca9df5a8a177ac997917f19b8be6fd73b423",
+      "bytes": 8802
+    },
+    {
+      "dest": "assets/pals/Renjishi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Renjishi.png",
+      "sha256": "162afc8dc213b5b2e5e5affa1dd4096d105fa77f1349bd27195ce14bdbc07d72",
+      "bytes": 18867
+    },
+    {
+      "dest": "assets/pals/Reptyro Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reptyro%20Cryst.png",
+      "sha256": "b038f059a7609fd89b803df12f9ad726acb71d90b3cb018393d8329143024490",
+      "bytes": 15679
+    },
+    {
+      "dest": "assets/pals/Reptyro.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reptyro.png",
+      "sha256": "5593dae070a3df7800dd4a4581c144c9c2f917abad926a31154215ea7881bff9",
+      "bytes": 14894
+    },
+    {
+      "dest": "assets/pals/Ribbuny Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ribbuny%20Botan.png",
+      "sha256": "b94716e10d4920ac517664270ac61a15931e40e859a7dc2f31d445cdd1b2b373",
+      "bytes": 13249
+    },
+    {
+      "dest": "assets/pals/Ribbuny.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ribbuny.png",
+      "sha256": "9319ba82163116e961b18508d5648ca49ec60a59dc63b51aac956617d62291e7",
+      "bytes": 13238
+    },
+    {
+      "dest": "assets/pals/Robinquill Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Robinquill%20Terra.png",
+      "sha256": "f2aca0e80a84837013fd4e4984113b7b1e745f1431d5d8024d22f66727b3b332",
+      "bytes": 11943
+    },
+    {
+      "dest": "assets/pals/Robinquill.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Robinquill.png",
+      "sha256": "50393809831fbe6f986c74f2cde02fcecb55bf1a07013bec95be4b8f28ef108e",
+      "bytes": 11734
+    },
+    {
+      "dest": "assets/pals/Rooby.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rooby.png",
+      "sha256": "7dc90c395c9c5866b38594b0a8f8ef7f0d25cc8650710547b0867a55cd8b4863",
+      "bytes": 14217
+    },
+    {
+      "dest": "assets/pals/Roujay.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Roujay.png",
+      "sha256": "c8f3a0c24580e95c3b9d495a879aad1ac4b43e0f8e3fee528bfc6a53165d0798",
+      "bytes": 11598
+    },
+    {
+      "dest": "assets/pals/Rushoar.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rushoar.png",
+      "sha256": "e1cadf8251d8d888a3b4fc02c454ebb9377b74ec595a32da55e12c2ea430c268",
+      "bytes": 13901
+    },
+    {
+      "dest": "assets/pals/Sekhmet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sekhmet.png",
+      "sha256": "d965065f48f8500f57cebdd0ec44d4f4bb157c39d19a4ba7518cb46f1380a2d9",
+      "bytes": 13071
+    },
+    {
+      "dest": "assets/pals/Selyne.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Selyne.png",
+      "sha256": "abaf6a1200ac9b6d5ade8ee06e4a080689a6a764befee6627ff5aaac8aacdd01",
+      "bytes": 14483
+    },
+    {
+      "dest": "assets/pals/Shadowbeak.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shadowbeak.png",
+      "sha256": "43762426a967e8048601b2e48e90824f4c0114e19721c98d8c08fd504d9c4be2",
+      "bytes": 13434
+    },
+    {
+      "dest": "assets/pals/Shaolong.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shaolong.png",
+      "sha256": "b2ae561c1c485b7119d671f07a6794a1f7bc7ba0a5c4acfbe510253fef623bed",
+      "bytes": 18554
+    },
+    {
+      "dest": "assets/pals/Shroomer Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shroomer%20Noct.png",
+      "sha256": "ca50575df5c26f701c0fb812ad6df19c231dd789fa61a3622b7d923ee2b76984",
+      "bytes": 9826
+    },
+    {
+      "dest": "assets/pals/Shroomer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shroomer.png",
+      "sha256": "b10167b77a4e01fc593acaf6acd8e4e68e073e443ba276c8686d957a323e6612",
+      "bytes": 10009
+    },
+    {
+      "dest": "assets/pals/Sibelyx Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sibelyx%20Primo.png",
+      "sha256": "887d77b708da5279ecc42dd2a786f1c3bba35367ac6cc18988ed60864fd83b7c",
+      "bytes": 16563
+    },
+    {
+      "dest": "assets/pals/Sibelyx.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sibelyx.png",
+      "sha256": "aa9f564f7ebcd19fd58ac48ab2e7b655c98b194db9e5fb6dbd63eea20b5d5362",
+      "bytes": 16135
+    },
+    {
+      "dest": "assets/pals/Silvance.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Silvance.png",
+      "sha256": "87acf92f747f3bc65424e9c1efaa35fc39f92fbb8fccee6281da7922c4f6928e",
+      "bytes": 15447
+    },
+    {
+      "dest": "assets/pals/Silvegis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Silvegis.png",
+      "sha256": "e85d46bf3ae1132b56cb7c4486c8b3878c2ade12418b0bdc9caae878053ef17a",
+      "bytes": 14013
+    },
+    {
+      "dest": "assets/pals/Skutlass Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Skutlass%20Ignis.png",
+      "sha256": "798f6260a1730bad19743399303571c1f3a1712fb14b0ae14729c103594eba31",
+      "bytes": 12765
+    },
+    {
+      "dest": "assets/pals/Skutlass.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Skutlass.png",
+      "sha256": "ff95229956bf6e0daf7d4200c48e1a65e1425d86e6e53f10bd533990c23b45c5",
+      "bytes": 12778
+    },
+    {
+      "dest": "assets/pals/Slowatt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Slowatt.png",
+      "sha256": "2ac7eb4f25be9669141d9f34f620f7a5638a2f8e4081a837e71c28f26979f63e",
+      "bytes": 12581
+    },
+    {
+      "dest": "assets/pals/Smokie Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Smokie%20Cryst.png",
+      "sha256": "aa9e2a0013ddc52caa22bf74dc21678486addb5dc14299d397894666ef71c422",
+      "bytes": 13297
+    },
+    {
+      "dest": "assets/pals/Smokie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Smokie.png",
+      "sha256": "a23b164356ad9e63c30a1852213e6231de1b03044be3d24e564699f93b3e73d6",
+      "bytes": 12565
+    },
+    {
+      "dest": "assets/pals/Snock Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snock%20Lux.png",
+      "sha256": "d982ae01a7030d1b979d539ceb7dc8ff5781c11ef32a2a4327c64bb8878bc416",
+      "bytes": 15103
+    },
+    {
+      "dest": "assets/pals/Snock.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snock.png",
+      "sha256": "46ccc8c41562d3213ac5afc57a5a7f3f2ada5888109d63e8012831a2d641c0ca",
+      "bytes": 14624
+    },
+    {
+      "dest": "assets/pals/Snugloo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snugloo.png",
+      "sha256": "b40c2eddf7e26d162914cceb14337d51de4dbf5448d2020fc49d4e12e508b167",
+      "bytes": 18225
+    },
+    {
+      "dest": "assets/pals/Solenne.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solenne.png",
+      "sha256": "7f346644dd06f2ad314a7471c47d96c406459e4a90e317d04a42ef6e8e2cd29e",
+      "bytes": 14472
+    },
+    {
+      "dest": "assets/pals/Solmora Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solmora%20Lux.png",
+      "sha256": "9d70bae8c3d5861025afd8fdb825db25e4074a9d50d5bcb994cda3e0829325e4",
+      "bytes": 14638
+    },
+    {
+      "dest": "assets/pals/Solmora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solmora.png",
+      "sha256": "13f4ecb061e7c4e9f38a886a21126fe283725804e25a52d26f2f847adec2b622",
+      "bytes": 14397
+    },
+    {
+      "dest": "assets/pals/Sootseer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sootseer.png",
+      "sha256": "e99a6d1f69bcafe75f042f733e500506ddf46331f10ec0887c6978b6d83ed3c4",
+      "bytes": 16674
+    },
+    {
+      "dest": "assets/pals/Souffline.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Souffline.png",
+      "sha256": "721f2b24081dc0dd5030995162ff47412d631357913e902ad05e27a60a555cda",
+      "bytes": 11407
+    },
+    {
+      "dest": "assets/pals/Sparkit.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sparkit.png",
+      "sha256": "5ef64b02b7d20e9137d8e63994ae7cb7f65b784e434865c59f31a66dfb10fdd4",
+      "bytes": 16566
+    },
+    {
+      "dest": "assets/pals/Splatterina.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Splatterina.png",
+      "sha256": "510dfe16cf8417e5210c4898e31c074144b265a21bb5d4d22630683143ae8db1",
+      "bytes": 11300
+    },
+    {
+      "dest": "assets/pals/Starryon Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Starryon%20Primo.png",
+      "sha256": "7d19110535fbcee058214fa6354de9439904bc8b00ced470c294d66980b12428",
+      "bytes": 14349
+    },
+    {
+      "dest": "assets/pals/Starryon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Starryon.png",
+      "sha256": "6f5f20277354ef3e107f288c6a17f23f55ab1c5731aee737d1c90fe3fb996645",
+      "bytes": 14020
+    },
+    {
+      "dest": "assets/pals/Surfent Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Surfent%20Terra.png",
+      "sha256": "7def65cb6d09119c9c8031dec8316b874e3cc1f93e7a0555eceb9bd1690409b5",
+      "bytes": 12148
+    },
+    {
+      "dest": "assets/pals/Surfent.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Surfent.png",
+      "sha256": "17271d382a1ef112c7cc4647059ef5810b5fb7a491155aea98f21a23aae19ab9",
+      "bytes": 10541
+    },
+    {
+      "dest": "assets/pals/Suzaku Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Suzaku%20Aqua.png",
+      "sha256": "e827914ef9370088e2eaf5c65e4c1ad53efde6e0f13d3bb8588684f10d60e309",
+      "bytes": 13084
+    },
+    {
+      "dest": "assets/pals/Suzaku.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Suzaku.png",
+      "sha256": "e50f712227972c8f365cb032c2e103d57512f1ea7753e0da599a66a121593a57",
+      "bytes": 13039
+    },
+    {
+      "dest": "assets/pals/Swee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Swee.png",
+      "sha256": "e31a94172879625d387ffe19b4247fecfc1227c748ed7c2de7b79308f68b769a",
+      "bytes": 11831
+    },
+    {
+      "dest": "assets/pals/Sweepa.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sweepa.png",
+      "sha256": "19385a53cca08bcb6145a4ea8fb63ac482690c8d66d1772cef9c1446fc42bd97",
+      "bytes": 14027
+    },
+    {
+      "dest": "assets/pals/Tanzee Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tanzee%20Ignis.png",
+      "sha256": "90b13d51ef1b0b22324c239255bbf830b794c1e4e23fcdcd95c327f4b8dc40f0",
+      "bytes": 15524
+    },
+    {
+      "dest": "assets/pals/Tanzee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tanzee.png",
+      "sha256": "4e3c3aa6277761906b5b6c94f2c619ebd959d73ed86c95acb2ece11e4ff9c3aa",
+      "bytes": 15511
+    },
+    {
+      "dest": "assets/pals/Tarantriss.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tarantriss.png",
+      "sha256": "c2db63f56c2a4c9cb8c4038da9995aaf9e59942bf9183e37c30432044a08068f",
+      "bytes": 17983
+    },
+    {
+      "dest": "assets/pals/Teafant.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Teafant.png",
+      "sha256": "60d09223002f0a543f5c847f3454f8172e8970a2a5254531ce947218c7af860d",
+      "bytes": 12810
+    },
+    {
+      "dest": "assets/pals/Tetroise Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tetroise%20Primo.png",
+      "sha256": "4bc1a62936674675508fbbbab501885060f4188004c3c6a35bb8fc63b09c6734",
+      "bytes": 20510
+    },
+    {
+      "dest": "assets/pals/Tetroise.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tetroise.png",
+      "sha256": "a25251ad891955a1559842cc390e97b90c06e0fdc58f5e4a6b67ba10923873e5",
+      "bytes": 20401
+    },
+    {
+      "dest": "assets/pals/Tocotoco.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tocotoco.png",
+      "sha256": "9f238a81a81e0912c8dede0634b8da1edcfedc93e60dac845142fa097899e70a",
+      "bytes": 9301
+    },
+    {
+      "dest": "assets/pals/Tombat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tombat.png",
+      "sha256": "3d55c7aefa41710392ad21e4eb51bea9ef241b9d420758122c92761ed1441e2d",
+      "bytes": 16944
+    },
+    {
+      "dest": "assets/pals/Tropicaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tropicaw.png",
+      "sha256": "cf535e621a60b3043bbb9fa0a97dc601de81c4246beee0665cf37b607696c23a",
+      "bytes": 13447
+    },
+    {
+      "dest": "assets/pals/Turtacle Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Turtacle%20Terra.png",
+      "sha256": "74a27dd7e7e1d85d19463c306efabd385abfc3ed10c3ab9c2b913f3739d7c91a",
+      "bytes": 18010
+    },
+    {
+      "dest": "assets/pals/Turtacle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Turtacle.png",
+      "sha256": "10cf47bb298c1dfb55d9a6de880fede253e3ce701f3fc89b8ae192024d9205ba",
+      "bytes": 17287
+    },
+    {
+      "dest": "assets/pals/Univolt Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Univolt%20Cryst.png",
+      "sha256": "70fe014cefce5cd687bac2970eebcb301bc5331883148328ce56174b775089f1",
+      "bytes": 12768
+    },
+    {
+      "dest": "assets/pals/Univolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Univolt.png",
+      "sha256": "46c2f7621a05dbf6a3f627aa899fe20e17d5212beaa6d51d4313fc2245225a43",
+      "bytes": 11944
+    },
+    {
+      "dest": "assets/pals/Vaelet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vaelet.png",
+      "sha256": "08b101b315f7fcf43d9875fc77fbc7238ebb3acd0ca49a26a643eb37973ace46",
+      "bytes": 17192
+    },
+    {
+      "dest": "assets/pals/Valentail.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Valentail.png",
+      "sha256": "fb3e27af63225a559887ce385247dac6dbb53f6a77d720fa79cd004d9c88d7cd",
+      "bytes": 14240
+    },
+    {
+      "dest": "assets/pals/Vanwyrm Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vanwyrm%20Cryst.png",
+      "sha256": "c3ab17db2c49119adf80f55739b82c8c8cd0db427b6c2bf1d3c565d87960889e",
+      "bytes": 15702
+    },
+    {
+      "dest": "assets/pals/Vanwyrm.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vanwyrm.png",
+      "sha256": "01c22f9ca3e4561cadc501066e60ad2b8e86c3c8c68789f46972a40c7acf81a8",
+      "bytes": 13676
+    },
+    {
+      "dest": "assets/pals/Venusa.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Venusa.png",
+      "sha256": "3bd377e3f0d7b77368ad2c42f81a2a55e3f2b5f3d94b4b9766ce10a51732fb5b",
+      "bytes": 16826
+    },
+    {
+      "dest": "assets/pals/Verdash.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Verdash.png",
+      "sha256": "c820ce8d2c19300d98d786efb602572e1c7c4dfd701db63fe5e1d149599414e7",
+      "bytes": 15316
+    },
+    {
+      "dest": "assets/pals/Vixy.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vixy.png",
+      "sha256": "367405fe6d843728b1ed7d034234db0137bea5e5d1d9ed493b33bc13343c6e8e",
+      "bytes": 15403
+    },
+    {
+      "dest": "assets/pals/Warsect Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Warsect%20Terra.png",
+      "sha256": "2a514180e3b9b42a5c42d89b02337b5ba505b92a42640f11a6fd2973d5e692a3",
+      "bytes": 19133
+    },
+    {
+      "dest": "assets/pals/Warsect.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Warsect.png",
+      "sha256": "f3a614958844edee61a7b086c91608f0a1f4236b26cc759a8e75b2931da3375e",
+      "bytes": 16287
+    },
+    {
+      "dest": "assets/pals/Whalaska Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Whalaska%20Ignis.png",
+      "sha256": "4b514ca2846a262074023b9068172562fd72640f81ddbf6f04d287b646d3bed0",
+      "bytes": 15591
+    },
+    {
+      "dest": "assets/pals/Whalaska.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Whalaska.png",
+      "sha256": "d0eaabeec99351ec72f84d05b8af1d34d6f82bfde76df2e9cd250b560ea8c414",
+      "bytes": 15812
+    },
+    {
+      "dest": "assets/pals/Wispaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wispaw.png",
+      "sha256": "0126e0154ab2c2c15a7c37b4390df77fb53e967e9e12365abb6e0d7a3fc6f190",
+      "bytes": 17825
+    },
+    {
+      "dest": "assets/pals/Wistella.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wistella.png",
+      "sha256": "9219610cd77b5b5264343c94ff4a54b12bc15f26ac630460cbc5b94a5bc6ed67",
+      "bytes": 17100
+    },
+    {
+      "dest": "assets/pals/Wixen Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wixen%20Noct.png",
+      "sha256": "8c0b5fa85760eeb820882c48e2ee827666a660e4d007c6fcdf2efc780104257b",
+      "bytes": 16001
+    },
+    {
+      "dest": "assets/pals/Wixen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wixen.png",
+      "sha256": "2998672c7b2233b1ffd96448bd9e9321b953d7891f0e8de7106bf1340741887d",
+      "bytes": 15983
+    },
+    {
+      "dest": "assets/pals/Woolipop Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Woolipop%20Terra.png",
+      "sha256": "9f5183e62555db6bba5de9078a4e24e4534416dec535930feb4442c5ca3759cb",
+      "bytes": 18060
+    },
+    {
+      "dest": "assets/pals/Woolipop.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Woolipop.png",
+      "sha256": "f8a178f135527442cfe4c028d6e6e6521becaa656af678c96e77ee8bff4d1541",
+      "bytes": 16322
+    },
+    {
+      "dest": "assets/pals/Wumpo Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wumpo%20Botan.png",
+      "sha256": "2ed1c038cb389d515f61d4481a703a7adddb05b547dd17e425b44ef3cf9f45f7",
+      "bytes": 14973
+    },
+    {
+      "dest": "assets/pals/Wumpo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wumpo.png",
+      "sha256": "c9200979c1cf060be559cc77147ee5b3abd7300e4a61eaa84595cff2d21fd44a",
+      "bytes": 13849
+    },
+    {
+      "dest": "assets/pals/Xenogard.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenogard.png",
+      "sha256": "d2888476dce93d44496af61671968ac424b6e74141325ca58c62eae8f8828ed0",
+      "bytes": 11639
+    },
+    {
+      "dest": "assets/pals/Xenolord.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenolord.png",
+      "sha256": "02b3e94f0c606bac81ca53d16f2623ab4f703c0b0e147c1aff5ac23419dfb526",
+      "bytes": 10736
+    },
+    {
+      "dest": "assets/pals/Xenovader.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenovader.png",
+      "sha256": "ebc351558f0166dc6ae95a797c39c4efe01416cf47339ffcaf9a0bfb12604046",
+      "bytes": 16257
+    },
+    {
+      "dest": "assets/pals/Yakumo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Yakumo.png",
+      "sha256": "02f41e27cb578d34a6f8b09100063f098069cea5789f94cbf2f163a19be69c64",
+      "bytes": 13409
+    },
+    {
+      "dest": "assets/skills/rank_-1.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-1.webp",
+      "sha256": "7ca9233c624e259dcf9e21405a27767f144552815594c99b6fb6f38c7610229c",
+      "bytes": 128
+    },
+    {
+      "dest": "assets/skills/rank_-2.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-2.webp",
+      "sha256": "f053be8eef617c7002633185a8b075b1690d345a87d9574bb2f28b613e5f1730",
+      "bytes": 194
+    },
+    {
+      "dest": "assets/skills/rank_-3.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-3.webp",
+      "sha256": "604a70fd320938eb207659dde849d48410e937069d8b08c62b8fbc77ddd2b2b5",
+      "bytes": 260
+    },
+    {
+      "dest": "assets/skills/rank_0.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_0.webp",
+      "sha256": "7ca9233c624e259dcf9e21405a27767f144552815594c99b6fb6f38c7610229c",
+      "bytes": 128
+    },
+    {
+      "dest": "assets/skills/rank_1.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_1.webp",
+      "sha256": "35a9dd6501e854b7074b34a805bb2c29e4bb4684d973bc4679b0e2188b8f8518",
+      "bytes": 132
+    },
+    {
+      "dest": "assets/skills/rank_2.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_2.webp",
+      "sha256": "51a47d002f0db1bfc8e649e3445f5fb27c22d77ecc45badf53102f1092c84ef6",
+      "bytes": 196
+    },
+    {
+      "dest": "assets/skills/rank_3.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_3.webp",
+      "sha256": "e7ac633ca302880f676c3902e27dfff5b5f52c2a95cce0abe95bbdfe0bb50d62",
+      "bytes": 270
+    },
+    {
+      "dest": "assets/skills/rank_4.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_4.webp",
+      "sha256": "7ccd05d3dd7d7f032b93125d8a5563dae984797a1757bc41a2abe3e2be35f095",
+      "bytes": 288
+    },
+    {
+      "dest": "assets/structures/accumulator.png",
+      "url": "https://palworld.wiki.gg/images/Accumulator_icon.png",
+      "sha256": "dcc7281413aed8b185494f99273d940569643c094f0766477fd63c08705a3bd8",
+      "bytes": 24220
+    },
+    {
+      "dest": "assets/structures/advanced-chest.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Chest_icon.png",
+      "sha256": "0052b1cba9dda3254107fc9d5c5676bf5d6ef31c2542e17fa9af89453b79a796",
+      "bytes": 42207
+    },
+    {
+      "dest": "assets/structures/advanced-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Medicine_Workbench_icon.png",
+      "sha256": "9d30fca232f0356151bfa4932cfd504958c86f4a3ca3d41cddc2856b769ca4aa",
+      "bytes": 47112
+    },
+    {
+      "dest": "assets/structures/advanced-sphere-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Sphere_Assembly_Line_icon.png",
+      "sha256": "fe2644c4a2736ef5bd15e11bb00f77158432e9741f97c5afcb443ca30ab0bc97",
+      "bytes": 29412
+    },
+    {
+      "dest": "assets/structures/advanced-weapon-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Weapon_Assembly_Line_icon.png",
+      "sha256": "f233c9e1efb74903ffb3d126638b412d5bb76db5243a837742c77a363c54bb09",
+      "bytes": 29155
+    },
+    {
+      "dest": "assets/structures/advanced-workshop.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Workshop_icon.png",
+      "sha256": "5b4e7a1b1977cdd0e58e2dd1098a52a73a0dee5ce0dba6e03f203c4134406bfb",
+      "bytes": 30238
+    },
+    {
+      "dest": "assets/structures/alarm-bell.png",
+      "url": "https://palworld.wiki.gg/images/Alarm_Bell_icon.png",
+      "sha256": "841d48bae8470105e612c4ccbcf165fa7a4818e22b351eb4acf03df0d02406d8",
+      "bytes": 197539
+    },
+    {
+      "dest": "assets/structures/alpha-wave-generator.png",
+      "url": "https://palworld.wiki.gg/images/Alpha_Wave_Generator_icon.png",
+      "sha256": "38e9033a4dea5f1d121072b105e8ac2e31591b9c55867ff06a0bf87dabe4193e",
+      "bytes": 20981
+    },
+    {
+      "dest": "assets/structures/antique-dresser.png",
+      "url": "https://palworld.wiki.gg/images/Antique_Dresser_icon.png",
+      "sha256": "b80c045f1402a4792ac2b439e0574ca402afae8d9e1a857403d0debd39b78a14",
+      "bytes": 140523
+    },
+    {
+      "dest": "assets/structures/bear-trap-large.png",
+      "url": "https://palworld.wiki.gg/images/Bear_Trap_%28Large%29_icon.png",
+      "sha256": "041fdd59f5d0ef82085bf78f38cab8760dbe4329ef83537cdbc81afa51ccb8fb",
+      "bytes": 159418
+    },
+    {
+      "dest": "assets/structures/bear-trap-small.png",
+      "url": "https://palworld.wiki.gg/images/Bear_Trap_%28Small%29_icon.png",
+      "sha256": "0162cf17cada5dca67eaec8f9075b5dd8d5af9e06a18de5684d5563410545d3e",
+      "bytes": 46771
+    },
+    {
+      "dest": "assets/structures/berry-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Berry_Plantation_icon.png",
+      "sha256": "b1ed4f00cf8d1105b8d89f7d2cec6741502a6e09a54da2bd0351b7ec472f6228",
+      "bytes": 168650
+    },
+    {
+      "dest": "assets/structures/beta-wave-generator.png",
+      "url": "https://palworld.wiki.gg/images/Beta_Wave_Generator_icon.png",
+      "sha256": "e7177c90c7f55ec7e49f6ca65de2357c64edf4b8331c020cb7b8e8605c4291ef",
+      "bytes": 20866
+    },
+    {
+      "dest": "assets/structures/breeding-farm.png",
+      "url": "https://palworld.wiki.gg/images/Breeding_Farm_icon.png",
+      "sha256": "a887a02eac80536282d3b9553d04cf7589a936c043857823ee3649538fb42881",
+      "bytes": 114589
+    },
+    {
+      "dest": "assets/structures/campfire.png",
+      "url": "https://palworld.wiki.gg/images/Campfire_icon.png",
+      "sha256": "acec0517fe12ea4c886d6280aa7268cde839887c2a54504687ec187237862244",
+      "bytes": 86952
+    },
+    {
+      "dest": "assets/structures/carrot-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Carrot_Plantation_icon.png",
+      "sha256": "7075e31339c859be083f553e0782c62f6e11b9edb780b6a138936dedfb5227d1",
+      "bytes": 45111
+    },
+    {
+      "dest": "assets/structures/ceiling-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Ceiling_Lamp_icon.png",
+      "sha256": "af8297690bee5abda34f83f287f267e6566be6685bbba7829b478a61dfa55b1d",
+      "bytes": 37861
+    },
+    {
+      "dest": "assets/structures/coal-mine.png",
+      "url": "https://palworld.wiki.gg/images/Coal_Mine_icon.png",
+      "sha256": "404ada1646e2a2342c5c39de5c8b82e3c980d5d77663561023bdee6e6b3cf473",
+      "bytes": 61002
+    },
+    {
+      "dest": "assets/structures/cold-food-box.png",
+      "url": "https://palworld.wiki.gg/images/Cold_Food_Box_icon.png",
+      "sha256": "617b19a62d19c9d5babe40f5e1516ba96b23d5895265d195610501a9d5039411",
+      "bytes": 85261
+    },
+    {
+      "dest": "assets/structures/cooking-pot.png",
+      "url": "https://palworld.wiki.gg/images/Cooking_Pot_icon.png",
+      "sha256": "1fc366c0f18ce48c7cbcfcf9b402387678399b7f18ad770668a9de41e8704dd9",
+      "bytes": 91305
+    },
+    {
+      "dest": "assets/structures/cooler-box.png",
+      "url": "https://palworld.wiki.gg/images/Cooler_Box_icon.png",
+      "sha256": "239f0e448b716158ed94f6a71260c4ec6b906b506c724e0ce8d8b825ecfbc677",
+      "bytes": 85188
+    },
+    {
+      "dest": "assets/structures/cooler.png",
+      "url": "https://palworld.wiki.gg/images/Cooler_icon.png",
+      "sha256": "e89e73fdf02c8fe3309c5e179db12949ea1b667d5a9c88c3f3c28a7da43e009a",
+      "bytes": 84958
+    },
+    {
+      "dest": "assets/structures/crude-oil-extractor.png",
+      "url": "https://palworld.wiki.gg/images/Crude_Oil_Extractor_icon.png",
+      "sha256": "7d094a1724f2682c8a2d61fe8a6017d92d02aa013e8e6dd9d3a374e1fa8c87fa",
+      "bytes": 73498
+    },
+    {
+      "dest": "assets/structures/crusher.png",
+      "url": "https://palworld.wiki.gg/images/Crusher_icon.png",
+      "sha256": "e1b6dad54e45d13dfa8d6cad30eaa99d0f27b336d25679056bc96863a43f4f7e",
+      "bytes": 206880
+    },
+    {
+      "dest": "assets/structures/defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Defensive_Wall_icon.png",
+      "sha256": "c2917e7c0aed27f15d177750bd724493c3afbbab990c1af591c5852df5ff9fa9",
+      "bytes": 154986
+    },
+    {
+      "dest": "assets/structures/drafting-table.png",
+      "url": "https://palworld.wiki.gg/images/Drafting_Table_icon.png",
+      "sha256": "48cf05d9b6e7f1ed7aa6a654da10240e0f18850770bcd41972764fcbc7416412",
+      "bytes": 56652
+    },
+    {
+      "dest": "assets/structures/egg-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Egg_Incubator_icon.png",
+      "sha256": "b4b0866bebe3545d8e760f9cf7d66e24bdaa1cc8a68316f2cdd7434b830e252f",
+      "bytes": 55039
+    },
+    {
+      "dest": "assets/structures/electric-cooler.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Cooler_icon.png",
+      "sha256": "8d2f3dfdb6060e5e1bf836b7f2ca390eead927fb26f6d7b5cab179859708367e",
+      "bytes": 105470
+    },
+    {
+      "dest": "assets/structures/electric-egg-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Egg_Incubator_icon.png",
+      "sha256": "524e9fae0b02379cc64254f26834cfe05afcc35b9ea4e96d406417ff6e350618",
+      "bytes": 156934
+    },
+    {
+      "dest": "assets/structures/electric-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Furnace_icon.png",
+      "sha256": "708e1c51e59232027bb8dd6659bdd24221f52622a0201ba1a6ebe4515a9be677",
+      "bytes": 110111
+    },
+    {
+      "dest": "assets/structures/electric-heater.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Heater_icon.png",
+      "sha256": "da673b15dc3b670aa72f6ce1dab7601ad861acc6a420d8c5e594d6a3cba49aa0",
+      "bytes": 101458
+    },
+    {
+      "dest": "assets/structures/electric-kitchen.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Kitchen_icon.png",
+      "sha256": "f6ba54b6de5b8688229cdb5053f1b76825f9c4f8e78828de00572facb12ee95f",
+      "bytes": 102129
+    },
+    {
+      "dest": "assets/structures/electric-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Medicine_Workbench_icon.png",
+      "sha256": "f74a83c5f44c527d6ea48c6b3f969b1690a313dca0c20ec091b0f9097a9a742b",
+      "bytes": 126985
+    },
+    {
+      "dest": "assets/structures/electric-mine.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Mine_icon.png",
+      "sha256": "faf16310ce930cb9e3691f4113103c70f02bd76c0ca2b472bfd45ca9483fdeed",
+      "bytes": 44594
+    },
+    {
+      "dest": "assets/structures/electric-pylon.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Pylon_icon.png",
+      "sha256": "50c9ec218db70f912f63449fc8b64c16a7c6eb2fd0426279509a96f0dcef82f4",
+      "bytes": 78150
+    },
+    {
+      "dest": "assets/structures/feed-box.png",
+      "url": "https://palworld.wiki.gg/images/Feed_Box_icon.png",
+      "sha256": "4d23eb413bd0c82f3cb52da85160e85c879ec990c6964bef0fbb77f433f89cd4",
+      "bytes": 170138
+    },
+    {
+      "dest": "assets/structures/fine-bed.png",
+      "url": "https://palworld.wiki.gg/images/Fine_Bed_icon.png",
+      "sha256": "7ace3fbe2a0e5c64e33aff295fbecc5f759254acc8c7639a7b2cbbf17759dcb4",
+      "bytes": 95935
+    },
+    {
+      "dest": "assets/structures/fishing-pond.png",
+      "url": "https://palworld.wiki.gg/images/Fishing_Pond_icon.png",
+      "sha256": "c1a77ad53daa7537e718d7f04e4be7049201b72465b01782915c3aaeb7e9bed5",
+      "bytes": 38821
+    },
+    {
+      "dest": "assets/structures/flame-cauldron.png",
+      "url": "https://palworld.wiki.gg/images/Flame_Cauldron_icon.png",
+      "sha256": "f59cce4ddf3bfa9ba2ea532a86f8d55ccc65a98da3c922a179b2054ea2ad9fd9",
+      "bytes": 69923
+    },
+    {
+      "dest": "assets/structures/flea-market-items.png",
+      "url": "https://palworld.wiki.gg/images/Flea_Market_%28Items%29_icon.png",
+      "sha256": "b95d133ffbc1245f38abb162466a18ad257c77a1cdf44c60620c1414c42e7a6a",
+      "bytes": 47266
+    },
+    {
+      "dest": "assets/structures/flea-market-pals.png",
+      "url": "https://palworld.wiki.gg/images/Flea_Market_%28Pals%29_icon.png",
+      "sha256": "b95d133ffbc1245f38abb162466a18ad257c77a1cdf44c60620c1414c42e7a6a",
+      "bytes": 47266
+    },
+    {
+      "dest": "assets/structures/flower-bed.png",
+      "url": "https://palworld.wiki.gg/images/Flower_Bed_icon.png",
+      "sha256": "b4487d51e18b994c9e2a20be824d6063225b91a9fdfa0bfa5e22a3217530a1d0",
+      "bytes": 202986
+    },
+    {
+      "dest": "assets/structures/fluffy-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Fluffy_Pal_Bed_icon.png",
+      "sha256": "b007b06a4aa67262ff57e321af63f1d07d67f68a180e30f5a590835a95da753f",
+      "bytes": 67761
+    },
+    {
+      "dest": "assets/structures/gigantic-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Gigantic_Furnace_icon.png",
+      "sha256": "cf59344b7e24a0b5c4f7917a93467e6cd59bd5cb891da45ce8afe2bbad64408d",
+      "bytes": 50804
+    },
+    {
+      "dest": "assets/structures/global-palbox.png",
+      "url": "https://palworld.wiki.gg/images/Global_Palbox_icon.png",
+      "sha256": "e587bcf298edb6cf66d3a8509fb408d76b3601418b72efbdb7b5466d34bb92e3",
+      "bytes": 57580
+    },
+    {
+      "dest": "assets/structures/gold-coin-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Gold_Coin_Assembly_Line_icon.png",
+      "sha256": "40a0f326ecefee654a2c2079b40c07be00d595225be4a87a56632d2cf945ea8d",
+      "bytes": 30101
+    },
+    {
+      "dest": "assets/structures/hanging-trap.png",
+      "url": "https://palworld.wiki.gg/images/Hanging_Trap_icon.png",
+      "sha256": "faef71003f86fea18fdb552053156d92845fef3160b79b73a27718de1eb58f1c",
+      "bytes": 86558
+    },
+    {
+      "dest": "assets/structures/heater.png",
+      "url": "https://palworld.wiki.gg/images/Heater_icon.png",
+      "sha256": "1db85ccc8132da16f8e3dc1b8661828ef559e689771fd26f1013b007798b3675",
+      "bytes": 80635
+    },
+    {
+      "dest": "assets/structures/hexolite-quartz-mine.png",
+      "url": "https://palworld.wiki.gg/images/Hexolite_Quartz_Mine_icon.png",
+      "sha256": "1e383d56d6b5e84d3da1c2cc5bdd3df1e332f9fb962e431b43d847c0749992b4",
+      "bytes": 213012
+    },
+    {
+      "dest": "assets/structures/high-quality-hot-spring.png",
+      "url": "https://palworld.wiki.gg/images/High_Quality_Hot_Spring_icon.png",
+      "sha256": "2a3bfd86e5643ad003ad6c6b9e0cdb14fe5eed66b1acff2f5a480ad7d7704249",
+      "bytes": 167541
+    },
+    {
+      "dest": "assets/structures/high-quality-workbench.png",
+      "url": "https://palworld.wiki.gg/images/High_Quality_Workbench_icon.png",
+      "sha256": "eaf6ef77044e8b0c154c08116070e3b2b4fdbff19cb9124fa33387e7d93c64d2",
+      "bytes": 213378
+    },
+    {
+      "dest": "assets/structures/hot-spring.png",
+      "url": "https://palworld.wiki.gg/images/Hot_Spring_icon.png",
+      "sha256": "170836613721b447a02a9f623fac2b8cb0daa6d19e99575fa0922ae3cfa156a5",
+      "bytes": 140089
+    },
+    {
+      "dest": "assets/structures/human-powered-generator.png",
+      "url": "https://palworld.wiki.gg/images/Human-Powered_Generator_icon.png",
+      "sha256": "d9e3bd7d301130a2ca4015d8f9bf83345fb3c89c5971e219634303887fbbcb3a",
+      "bytes": 58572
+    },
+    {
+      "dest": "assets/structures/ice-mine.png",
+      "url": "https://palworld.wiki.gg/images/Ice_Mine_icon.png",
+      "sha256": "c9613551dccaa558e9af4f0e6d75767b071a11f5250e2148db194ae77694a2b2",
+      "bytes": 46669
+    },
+    {
+      "dest": "assets/structures/improved-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Improved_Furnace_icon.png",
+      "sha256": "52e31b9a7a9e641c753a5d862c4c47a7593b27bdc48d9c73b47c08d616d3375c",
+      "bytes": 152624
+    },
+    {
+      "dest": "assets/structures/iron-gate.png",
+      "url": "https://palworld.wiki.gg/images/Iron_Gate_icon.png",
+      "sha256": "fd87aa5d6aa5a6b77db0f3273bd4b2b5ac78f0974e5735bf6776564a11decec9",
+      "bytes": 180202
+    },
+    {
+      "dest": "assets/structures/japanese-style-hotspring.png",
+      "url": "https://palworld.wiki.gg/images/Japanese-Style_Hotspring_icon.png",
+      "sha256": "163242b8a208585d848485e822a8b1bd634b057dfe4f80c2bfb978c1cae3883f",
+      "bytes": 243744
+    },
+    {
+      "dest": "assets/structures/ladder.png",
+      "url": "https://palworld.wiki.gg/images/Ladder_icon.png",
+      "sha256": "b52cc95fff375908314bb5eb0ff4aca82074d4a12f2aac30d397f3caed14f56f",
+      "bytes": 12022
+    },
+    {
+      "dest": "assets/structures/lamp.png",
+      "url": "https://palworld.wiki.gg/images/Lamp_icon.png",
+      "sha256": "a12e7898f47e532bc306dd3cd5628bd7c053106dc35b026c4e96da584cb80108",
+      "bytes": 13724
+    },
+    {
+      "dest": "assets/structures/large-ceiling-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Large_Ceiling_Lamp_icon.png",
+      "sha256": "ff507817a11207b396a95e3735550a1e4a7abd3f0965d17cf96cf70e8530391d",
+      "bytes": 37704
+    },
+    {
+      "dest": "assets/structures/large-fishing-pond.png",
+      "url": "https://palworld.wiki.gg/images/Large_Fishing_Pond_icon.png",
+      "sha256": "2a32f8125c054cbec164023c7fe68cfffdaaf3ab1a627481a301c6f7954dd3a4",
+      "bytes": 68034
+    },
+    {
+      "dest": "assets/structures/large-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Large_Incubator_icon.png",
+      "sha256": "1609baf4da6d474263039697f19ad2e4a3de148e372c56da9756b488473c177e",
+      "bytes": 156459
+    },
+    {
+      "dest": "assets/structures/large-mounted-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Large_Mounted_Lamp_icon.png",
+      "sha256": "9f6d178fe4c649c97bbd6687c12ccd8f3d16edf05d954792ef8a07d44873b24c",
+      "bytes": 22926
+    },
+    {
+      "dest": "assets/structures/large-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Large_Pal_Bed_icon.png",
+      "sha256": "445ba098f153d2b4e89eff43bd4fba551fe22e86946d06d45b1dea0b1a2f2fa5",
+      "bytes": 135994
+    },
+    {
+      "dest": "assets/structures/large-power-generator.png",
+      "url": "https://palworld.wiki.gg/images/Large_Power_Generator_icon.png",
+      "sha256": "d78e6111ec7b59db8f5c6d3a69b7e56c301a757a62b8623054d8c80b8d2dba67",
+      "bytes": 45175
+    },
+    {
+      "dest": "assets/structures/large-scale-stone-oven.png",
+      "url": "https://palworld.wiki.gg/images/Large-Scale_Stone_Oven_icon.png",
+      "sha256": "9bc9f6190ae72cf074cb5e1c30d668ae281ced3a8cc68cfaf131412897b73cb5",
+      "bytes": 32312
+    },
+    {
+      "dest": "assets/structures/large-toolbox.png",
+      "url": "https://palworld.wiki.gg/images/Large_Toolbox_icon.png",
+      "sha256": "90869483b526aa7340c84e4030ac0ed1b2be509143eef1ac4999d3864e4b1cdc",
+      "bytes": 115702
+    },
+    {
+      "dest": "assets/structures/lettuce-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Lettuce_Plantation_icon.png",
+      "sha256": "01929cd455c13041fbab170950ee56376939e82fccdb7def72b3435406829ec3",
+      "bytes": 47472
+    },
+    {
+      "dest": "assets/structures/logging-site.png",
+      "url": "https://palworld.wiki.gg/images/Logging_Site_icon.png",
+      "sha256": "dacafbf144435a82cda476e98d3c74c269bf84f8c4089c5ae01f50123277f11b",
+      "bytes": 244980
+    },
+    {
+      "dest": "assets/structures/medicine-rack.png",
+      "url": "https://palworld.wiki.gg/images/Medicine_Rack_icon.png",
+      "sha256": "0400738d523325189a98d19f32ea999b539b61b4918a13de628caf23c06995f1",
+      "bytes": 28987
+    },
+    {
+      "dest": "assets/structures/medieval-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Medieval_Medicine_Workbench_icon.png",
+      "sha256": "ed5e75922faa8ab1f3fb98570bb653ff08093fd86965d5feb8df9476054a54f6",
+      "bytes": 168638
+    },
+    {
+      "dest": "assets/structures/metal-chest.png",
+      "url": "https://palworld.wiki.gg/images/Metal_Chest_icon.png",
+      "sha256": "1bf11fadb610a23770495996ed6f3a6ed0358098c7287867fc91978ed7c50ae8",
+      "bytes": 167294
+    },
+    {
+      "dest": "assets/structures/metal-defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Metal_Defensive_Wall_icon.png",
+      "sha256": "665b753459bc4b72e71b0e963b1e589f13f5576e01c89fa8dc115b345254d826",
+      "bytes": 139282
+    },
+    {
+      "dest": "assets/structures/mill.png",
+      "url": "https://palworld.wiki.gg/images/Mill_icon.png",
+      "sha256": "2fe28098e45411c98a99a7bdf4901a7df47314513a0474b882c768db96ce6cc1",
+      "bytes": 127904
+    },
+    {
+      "dest": "assets/structures/mine.png",
+      "url": "https://palworld.wiki.gg/images/Mine_icon.png",
+      "sha256": "dc5f4f2ae748f574ebdd7d2b177c0857641d4e9d04479c1bcefd17bcaaf62a21",
+      "bytes": 54221
+    },
+    {
+      "dest": "assets/structures/mining-cart.png",
+      "url": "https://palworld.wiki.gg/images/Mining_Cart_icon.png",
+      "sha256": "0341b77c7e7e4c53af0adfc6bb5742f4bb52ee5ef780df48718d0d25cb3e1595",
+      "bytes": 227790
+    },
+    {
+      "dest": "assets/structures/monitoring-stand.png",
+      "url": "https://palworld.wiki.gg/images/Monitoring_Stand_icon.png",
+      "sha256": "59d3d877dbcca795a005853e7ec6617c6b5dd7211132c40586b294df8f680bc7",
+      "bytes": 130086
+    },
+    {
+      "dest": "assets/structures/mounted-crossbow.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Crossbow_icon.png",
+      "sha256": "c987d60d95c8378b080e9e537de08e7673a4a81c069789c5db61c41e88eda087",
+      "bytes": 161644
+    },
+    {
+      "dest": "assets/structures/mounted-machine-gun.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Machine_Gun_icon.png",
+      "sha256": "756d76bcce4c2c25b4679f4c0abad486e2919246033a5d13a47f83ca665eb04d",
+      "bytes": 139789
+    },
+    {
+      "dest": "assets/structures/mounted-missile-launcher.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Missile_Launcher_icon.png",
+      "sha256": "58e57635da1d170ec7f33483a172024a73986229d2f8896cd345fb9dcf151114",
+      "bytes": 145974
+    },
+    {
+      "dest": "assets/structures/mounted-torch.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Torch_icon.png",
+      "sha256": "c29ed9e7811e10b6d4fc7716a31cbcb8479317def493cb20b719ddacd5eb70b7",
+      "bytes": 25340
+    },
+    {
+      "dest": "assets/structures/onion-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Onion_Plantation_icon.png",
+      "sha256": "777b971be3d30e379e09758c63082ea06a6b890e45bedab26ddbe62e47252d4d",
+      "bytes": 46136
+    },
+    {
+      "dest": "assets/structures/ore-mining-site-ii.png",
+      "url": "https://palworld.wiki.gg/images/Ore_Mining_Site_II_icon.png",
+      "sha256": "edcc09f768a97919c49e344924596bb97c7f2f2a85a9562d5109aed880ef62f2",
+      "bytes": 230159
+    },
+    {
+      "dest": "assets/structures/ore-mining-site.png",
+      "url": "https://palworld.wiki.gg/images/Ore_Mining_Site_icon.png",
+      "sha256": "ca401c2d9e624c2e21f9834859ff59dd4d770878e0a2d4750e848a7ce682eb11",
+      "bytes": 180960
+    },
+    {
+      "dest": "assets/structures/pal-disassembly-conveyor.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Disassembly_Conveyor_icon.png",
+      "sha256": "ce02f50d50c06c791c22624f1534ad2b1c1728408db096126e4ca2a0196b86c3",
+      "bytes": 44953
+    },
+    {
+      "dest": "assets/structures/pal-dressing-facility.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Dressing_Facility_icon.png",
+      "sha256": "3db2425f0471000fa4ea852deff049f4ce61b0b2280264dcfb1f5fb9523e5dcc",
+      "bytes": 41114
+    },
+    {
+      "dest": "assets/structures/pal-essence-condenser.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Essence_Condenser_icon.png",
+      "sha256": "b5148f0a83da7222b30282223cb57aec5061c6af983a23a8088af04744487658",
+      "bytes": 109937
+    },
+    {
+      "dest": "assets/structures/pal-expedition-station.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Expedition_Station_icon.png",
+      "sha256": "8ebf0508719a358c8fbe625b3eed629da6420bfe8bbf7aa86379ce8c77062b15",
+      "bytes": 63786
+    },
+    {
+      "dest": "assets/structures/pal-gear-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Gear_Workbench_icon.png",
+      "sha256": "0cf3788ed523656a4b7215337bf6d4d1dc8743cf3e321f82b96fedb20bec404f",
+      "bytes": 134187
+    },
+    {
+      "dest": "assets/structures/pal-labor-research-laboratory.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Labor_Research_Laboratory_icon.png",
+      "sha256": "0f77999fa01b19a4c47b8214161e29e845757e4adffb121202deb86c9ab01939",
+      "bytes": 39477
+    },
+    {
+      "dest": "assets/structures/pal-surgery-table.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Surgery_Table_icon.png",
+      "sha256": "77345b56609fae98556e7b77864085fab8557a4709f6cf353f6372e2777c0cf9",
+      "bytes": 102630
+    },
+    {
+      "dest": "assets/structures/palbox-control-device.png",
+      "url": "https://palworld.wiki.gg/images/Palbox_Control_Device_icon.png",
+      "sha256": "9e98345528a16534591a3e6786464f3da1c58a522b822c9c5df27127b337a3c8",
+      "bytes": 23726
+    },
+    {
+      "dest": "assets/structures/palbox.png",
+      "url": "https://palworld.wiki.gg/images/Palbox_icon.png",
+      "sha256": "fd2d37f47c79d7f10dbf9af7b311d3a32bb6a11c14ced31349d2e3b8bc943436",
+      "bytes": 115890
+    },
+    {
+      "dest": "assets/structures/potato-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Potato_Plantation_icon.png",
+      "sha256": "a40e2ffda6f2738f29d5355eb4c49b20531ee54b94bd8a298d8adfdb77516d1a",
+      "bytes": 45914
+    },
+    {
+      "dest": "assets/structures/power-generator.png",
+      "url": "https://palworld.wiki.gg/images/Power_Generator_icon.png",
+      "sha256": "2437899bb1b055c567b6182227782d4876ce8aebeb4848618d98f3c069f95bf5",
+      "bytes": 53635
+    },
+    {
+      "dest": "assets/structures/primitive-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Primitive_Furnace_icon.png",
+      "sha256": "951351bd7869fbd53d0cb18b70723507eab16843bb97a1d1346d1b5a1ca91c44",
+      "bytes": 129050
+    },
+    {
+      "dest": "assets/structures/primitive-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Primitive_Workbench_icon.png",
+      "sha256": "a663085415b6684e76dbf9d5c9c309b5e56980633f170b5c719660e1ce972e0e",
+      "bytes": 183157
+    },
+    {
+      "dest": "assets/structures/production-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Production_Assembly_Line_II_icon.png",
+      "sha256": "18f538cadb28896b74801269a1f29186ea0beeb5d05056d46a7985b875309afa",
+      "bytes": 57000
+    },
+    {
+      "dest": "assets/structures/production-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Production_Assembly_Line_icon.png",
+      "sha256": "fccd1628eb502785290d240118eba58f8359ee2becd6bf6260373bf4e7848414",
+      "bytes": 74953
+    },
+    {
+      "dest": "assets/structures/pure-quartz-mine.png",
+      "url": "https://palworld.wiki.gg/images/Pure_Quartz_Mine_icon.png",
+      "sha256": "385fd4e3b6742bc27e81b5bdd8a26332236afe9bb173df917a4b52288485e3f3",
+      "bytes": 61574
+    },
+    {
+      "dest": "assets/structures/ranch.png",
+      "url": "https://palworld.wiki.gg/images/Ranch_icon.png",
+      "sha256": "1bb8515b54c13e194144f5830c2a215c3f35aca4dae8b85db976965ec969272b",
+      "bytes": 47694
+    },
+    {
+      "dest": "assets/structures/refined-metal-chest.png",
+      "url": "https://palworld.wiki.gg/images/Refined_Metal_Chest_icon.png",
+      "sha256": "bd49583eb94842f03faedd4ced1701fd986163af826200cd82c531e39b0b6057",
+      "bytes": 92584
+    },
+    {
+      "dest": "assets/structures/refrigerated-crusher.png",
+      "url": "https://palworld.wiki.gg/images/Refrigerated_Crusher_icon.png",
+      "sha256": "f51d0d39cf1bea138e518d623ce005ae05a99f5f476e4b432768003d931ce864",
+      "bytes": 80087
+    },
+    {
+      "dest": "assets/structures/refrigerator.png",
+      "url": "https://palworld.wiki.gg/images/Refrigerator_icon.png",
+      "sha256": "0b0e9127219685619f5f811598820614dd7e5c812016190403d77672ddf4d26a",
+      "bytes": 100455
+    },
+    {
+      "dest": "assets/structures/repair-bench.png",
+      "url": "https://palworld.wiki.gg/images/Repair_Bench_icon.png",
+      "sha256": "82e632919173e1bef2884ce3d3fbb49a05c0794408db353d5e5896ffd1cfa39f",
+      "bytes": 155252
+    },
+    {
+      "dest": "assets/structures/sandbag.png",
+      "url": "https://palworld.wiki.gg/images/Sandbag_icon.png",
+      "sha256": "001cb19b20d9ec774988fa167fb07504fd1196e7fc77ff533e9942e4eaec3555",
+      "bytes": 143261
+    },
+    {
+      "dest": "assets/structures/shoddy-bed.png",
+      "url": "https://palworld.wiki.gg/images/Shoddy_Bed_icon.png",
+      "sha256": "aa145297f6b52047f8e79fc1dc3308235d8d2b0b0e0b8e5dc2840af4c8940224",
+      "bytes": 96656
+    },
+    {
+      "dest": "assets/structures/sign.png",
+      "url": "https://palworld.wiki.gg/images/Sign_icon.png",
+      "sha256": "698d804486ba9ca10e1def8aa14d427e61e894155151f991ed9cdfc0ee2b24b1",
+      "bytes": 71019
+    },
+    {
+      "dest": "assets/structures/silo.png",
+      "url": "https://palworld.wiki.gg/images/Silo_icon.png",
+      "sha256": "4aa6e3716b77cb96f7130f5f1b0164992d161b697e58c826d0a9fde4f41775f0",
+      "bytes": 183800
+    },
+    {
+      "dest": "assets/structures/skillfruit-orchard.png",
+      "url": "https://palworld.wiki.gg/images/Skillfruit_Orchard_icon.png",
+      "sha256": "db86568d07253e81dc038c35e8dd48d184515e99125764fd4714c292b5a1473d",
+      "bytes": 33192
+    },
+    {
+      "dest": "assets/structures/snowman.png",
+      "url": "https://palworld.wiki.gg/images/Snowman_icon.png",
+      "sha256": "c7991ccbc21225b389a95a3d66ee97060f522ccfd274cb77704e3fc799634d37",
+      "bytes": 121463
+    },
+    {
+      "dest": "assets/structures/sphere-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Assembly_Line_II_icon.png",
+      "sha256": "ae5880ab5601685163d163a0a74b191342b3325fb18c0353b6cbad875ca58e62",
+      "bytes": 55046
+    },
+    {
+      "dest": "assets/structures/sphere-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Assembly_Line_icon.png",
+      "sha256": "f07a5115de04d367e58da0a82a4410e361a349c59f2a1107f3f0b3b5db397fc7",
+      "bytes": 73723
+    },
+    {
+      "dest": "assets/structures/sphere-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Workbench_icon.png",
+      "sha256": "5ddc1ce069e973e76b1b442e259a429d866c0e371f52d10999334f9e12717e4f",
+      "bytes": 107940
+    },
+    {
+      "dest": "assets/structures/statue-of-power.png",
+      "url": "https://palworld.wiki.gg/images/Statue_of_Power_icon.png",
+      "sha256": "27636eb4edf89a5598f66fb47229f0d922fc406a754fe18bcd6ee384aa287919",
+      "bytes": 103601
+    },
+    {
+      "dest": "assets/structures/stone-gate.png",
+      "url": "https://palworld.wiki.gg/images/Stone_Gate_icon.png",
+      "sha256": "dfa4cf7a78717c5fe849de6c4b2f0619a689c16cb1e5f4dbc5fe1651fbb72ea4",
+      "bytes": 215636
+    },
+    {
+      "dest": "assets/structures/stone-pit.png",
+      "url": "https://palworld.wiki.gg/images/Stone_Pit_icon.png",
+      "sha256": "840b3e0880ef7a9d32a62fbf18230a38487b2df461f9df5be3c39976ae0beaab",
+      "bytes": 180628
+    },
+    {
+      "dest": "assets/structures/straw-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Straw_Pal_Bed_icon.png",
+      "sha256": "7f50c478c2b0829311104315886f1f0f9cef03414f2ff6d31206f521209a2d75",
+      "bytes": 81225
+    },
+    {
+      "dest": "assets/structures/stump-and-axe.png",
+      "url": "https://palworld.wiki.gg/images/Stump_and_Axe_icon.png",
+      "sha256": "6ef05cf6731f619518783e11b7d5fd37e6a503e9e6278ba8afd80000121c103c",
+      "bytes": 94278
+    },
+    {
+      "dest": "assets/structures/sulfur-mine.png",
+      "url": "https://palworld.wiki.gg/images/Sulfur_Mine_icon.png",
+      "sha256": "ca98b7ad17c22f2d41929e07ebd6e989bbbf9219ec3158a3a0cda0cbc9ada535",
+      "bytes": 49213
+    },
+    {
+      "dest": "assets/structures/summoning-altar.png",
+      "url": "https://palworld.wiki.gg/images/Summoning_Altar_icon.png",
+      "sha256": "66a3f7ff175598d2673f678817c6fb3917c28b97503ad398cebb6845afc11a48",
+      "bytes": 80955
+    },
+    {
+      "dest": "assets/structures/tomato-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Tomato_Plantation_icon.png",
+      "sha256": "f5d62d3e66116d74fb3d8e4183f7a529ac4db07a79daf9aea86507925cfcf30d",
+      "bytes": 46436
+    },
+    {
+      "dest": "assets/structures/tombstone.png",
+      "url": "https://palworld.wiki.gg/images/Tombstone_icon.png",
+      "sha256": "75d4637923d643d05d66839e763e64a41d9063355b90394a21fc4bc25dcfe07f",
+      "bytes": 21987
+    },
+    {
+      "dest": "assets/structures/training-dummy.png",
+      "url": "https://palworld.wiki.gg/images/Training_Dummy_icon.png",
+      "sha256": "bdfff3b5cc35378609d4f2f53ed8d10317c8a38368fec78af6d3808acf53f12d",
+      "bytes": 73436
+    },
+    {
+      "dest": "assets/structures/viewing-cage.png",
+      "url": "https://palworld.wiki.gg/images/Viewing_Cage_icon.png",
+      "sha256": "f45faf144e15a5af9a8e8521c9adcfbd33bd97af094def772f575f908e0abcf7",
+      "bytes": 18635
+    },
+    {
+      "dest": "assets/structures/wall-mounted-sign.png",
+      "url": "https://palworld.wiki.gg/images/Wall-Mounted_Sign_icon.png",
+      "sha256": "7048cf0a668a4480c387ccfb28aa74ce8a8eb7c246fa2888b13c704e3da2e697",
+      "bytes": 35213
+    },
+    {
+      "dest": "assets/structures/wall-torch.png",
+      "url": "https://palworld.wiki.gg/images/Wall_Torch_icon.png",
+      "sha256": "49ca6aab5a1a60523ea42c7e587e5daa7466b985f6c12bb549e308e2a31ec28d",
+      "bytes": 41971
+    },
+    {
+      "dest": "assets/structures/water-fountain.png",
+      "url": "https://palworld.wiki.gg/images/Water_Fountain_icon.png",
+      "sha256": "d6d0564169db3a9d22fb3531fd5cf96d559c28fc48c22cff2ba27d8a4f45dd64",
+      "bytes": 153041
+    },
+    {
+      "dest": "assets/structures/weapon-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Assembly_Line_II_icon.png",
+      "sha256": "535be2c5fcd39c9cb95f5c684655f8813e9cb0415c46467ef85df3bc507ea2e3",
+      "bytes": 80303
+    },
+    {
+      "dest": "assets/structures/weapon-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Assembly_Line_icon.png",
+      "sha256": "4227d784ab042ddfb3026110de94138fda356ab24d61c0a3c3e5c35c3d988bcb",
+      "bytes": 81157
+    },
+    {
+      "dest": "assets/structures/weapon-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Workbench_icon.png",
+      "sha256": "515318eaf3aa9be483132bb198e9d65b6b64f322e687f173047e6d3468a70555",
+      "bytes": 177472
+    },
+    {
+      "dest": "assets/structures/wheat-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Wheat_Plantation_icon.png",
+      "sha256": "d34b43bdcec0ad86f0811a5b9707cf19820fb286f56550fab8481f7453614145",
+      "bytes": 45585
+    },
+    {
+      "dest": "assets/structures/witch-cauldron.png",
+      "url": "https://palworld.wiki.gg/images/Witch_Cauldron_icon.png",
+      "sha256": "c0801a63cf21a7513f10a3ffa8586408afdc23298f8c36816e994f549f8a0059",
+      "bytes": 170023
+    },
+    {
+      "dest": "assets/structures/wooden-chest.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Chest_icon.png",
+      "sha256": "0d36a57e068761072fb351ec416707fe755274241ab147fa7a65664d8532cbcc",
+      "bytes": 155976
+    },
+    {
+      "dest": "assets/structures/wooden-defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Defensive_Wall_icon.png",
+      "sha256": "3b1804e574d9c51dbb7eff1970b08a879bfc185b3528d334b3c22c731d13fea9",
+      "bytes": 145640
+    },
+    {
+      "dest": "assets/structures/wooden-gate.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Gate_icon.png",
+      "sha256": "140bfbb353ed2c86cfadc993beeecb2732f28ff7f00cb19fcf71b2b219ad7d33",
+      "bytes": 302384
+    }
+  ],
+  "skipped": [],
+  "failures": []
+}

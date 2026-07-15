@@ -1,0 +1,1988 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T00:57:52.083Z",
+  "attribution": {
+    "notice": "All downloaded imagery is Palworld game art © Pocketpair, Inc., used as a fair-use fan reference for identification. Hosting repositories: tylercamp/palcalc (MIT), oMaN-Rod/palworld-save-pal, and palworld.wiki.gg uploads.",
+    "pins": {
+      "palcalc": "8ade7381d0548d0312dbe0d650673e4cebd86fd6",
+      "palworld-save-pal": "4cd0a85f66cf424b650ef0e886032a6b7419e55b",
+      "wiki": "palworld.wiki.gg live uploads, retrieved 2026-07-14"
+    }
+  },
+  "hostRules": {
+    "palworld.wiki.gg": {
+      "concurrency": 1,
+      "delayMs": 1200
+    }
+  },
+  "files": [
+    {
+      "dest": "assets/pals/Lamball.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lamball.png"
+    },
+    {
+      "dest": "assets/pals/Cattiva.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cattiva.png"
+    },
+    {
+      "dest": "assets/pals/Chikipi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chikipi.png"
+    },
+    {
+      "dest": "assets/pals/Lifmunk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lifmunk.png"
+    },
+    {
+      "dest": "assets/pals/Fuack.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuack.png"
+    },
+    {
+      "dest": "assets/pals/Fuack Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuack%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Vixy.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vixy.png"
+    },
+    {
+      "dest": "assets/pals/Celaray.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celaray.png"
+    },
+    {
+      "dest": "assets/pals/Celaray Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celaray%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Cremis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cremis.png"
+    },
+    {
+      "dest": "assets/pals/Croajiro.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Croajiro.png"
+    },
+    {
+      "dest": "assets/pals/Croajiro Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Croajiro%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Herbil.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Herbil.png"
+    },
+    {
+      "dest": "assets/pals/Teafant.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Teafant.png"
+    },
+    {
+      "dest": "assets/pals/Gumoss.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gumoss.png"
+    },
+    {
+      "dest": "assets/pals/Pupperai.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pupperai.png"
+    },
+    {
+      "dest": "assets/pals/Clovee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Clovee.png"
+    },
+    {
+      "dest": "assets/pals/Jolthog.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jolthog.png"
+    },
+    {
+      "dest": "assets/pals/Jolthog Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jolthog%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Depresso.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Depresso.png"
+    },
+    {
+      "dest": "assets/pals/Pengullet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pengullet.png"
+    },
+    {
+      "dest": "assets/pals/Pengullet Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pengullet%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Penking.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Penking.png"
+    },
+    {
+      "dest": "assets/pals/Penking Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Penking%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Hoocrates.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hoocrates.png"
+    },
+    {
+      "dest": "assets/pals/Melpaca.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Melpaca.png"
+    },
+    {
+      "dest": "assets/pals/Kingpaca.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kingpaca.png"
+    },
+    {
+      "dest": "assets/pals/Kingpaca Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kingpaca%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Daedream.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Daedream.png"
+    },
+    {
+      "dest": "assets/pals/Tanzee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tanzee.png"
+    },
+    {
+      "dest": "assets/pals/Tanzee Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tanzee%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Nox.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nox.png"
+    },
+    {
+      "dest": "assets/pals/Flambelle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flambelle.png"
+    },
+    {
+      "dest": "assets/pals/Rooby.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rooby.png"
+    },
+    {
+      "dest": "assets/pals/Mau.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mau.png"
+    },
+    {
+      "dest": "assets/pals/Mau Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mau%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Rushoar.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rushoar.png"
+    },
+    {
+      "dest": "assets/pals/Foxparks.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxparks.png"
+    },
+    {
+      "dest": "assets/pals/Foxparks Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxparks%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Killamari.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Killamari.png"
+    },
+    {
+      "dest": "assets/pals/Killamari Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Killamari%20Primo.png"
+    },
+    {
+      "dest": "assets/pals/Fuddler.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fuddler.png"
+    },
+    {
+      "dest": "assets/pals/Eikthyrdeer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eikthyrdeer.png"
+    },
+    {
+      "dest": "assets/pals/Eikthyrdeer Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eikthyrdeer%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Direhowl.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Direhowl.png"
+    },
+    {
+      "dest": "assets/pals/Caprity.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Caprity.png"
+    },
+    {
+      "dest": "assets/pals/Caprity Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Caprity%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Swee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Swee.png"
+    },
+    {
+      "dest": "assets/pals/Sweepa.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sweepa.png"
+    },
+    {
+      "dest": "assets/pals/Turtacle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Turtacle.png"
+    },
+    {
+      "dest": "assets/pals/Turtacle Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Turtacle%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Hangyu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hangyu.png"
+    },
+    {
+      "dest": "assets/pals/Hangyu Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hangyu%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Woolipop.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Woolipop.png"
+    },
+    {
+      "dest": "assets/pals/Woolipop Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Woolipop%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Mozzarina.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mozzarina.png"
+    },
+    {
+      "dest": "assets/pals/Azurobe.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurobe.png"
+    },
+    {
+      "dest": "assets/pals/Azurobe Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurobe%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Sparkit.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sparkit.png"
+    },
+    {
+      "dest": "assets/pals/Kelpsea.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kelpsea.png"
+    },
+    {
+      "dest": "assets/pals/Kelpsea Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kelpsea%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Ribbuny.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ribbuny.png"
+    },
+    {
+      "dest": "assets/pals/Ribbuny Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ribbuny%20Botan.png"
+    },
+    {
+      "dest": "assets/pals/Jelliette.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jelliette.png"
+    },
+    {
+      "dest": "assets/pals/Jellroy.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jellroy.png"
+    },
+    {
+      "dest": "assets/pals/Amione.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Amione.png"
+    },
+    {
+      "dest": "assets/pals/Gloopie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gloopie.png"
+    },
+    {
+      "dest": "assets/pals/Gloopie Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gloopie%20Primo.png"
+    },
+    {
+      "dest": "assets/pals/Galeclaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Galeclaw.png"
+    },
+    {
+      "dest": "assets/pals/Wispaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wispaw.png"
+    },
+    {
+      "dest": "assets/pals/Nitewing.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitewing.png"
+    },
+    {
+      "dest": "assets/pals/Tombat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tombat.png"
+    },
+    {
+      "dest": "assets/pals/Tocotoco.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tocotoco.png"
+    },
+    {
+      "dest": "assets/pals/Univolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Univolt.png"
+    },
+    {
+      "dest": "assets/pals/Univolt Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Univolt%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Gobfin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gobfin.png"
+    },
+    {
+      "dest": "assets/pals/Gobfin Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gobfin%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Loupmoon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loupmoon.png"
+    },
+    {
+      "dest": "assets/pals/Loupmoon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loupmoon%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Cawgnito.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cawgnito.png"
+    },
+    {
+      "dest": "assets/pals/Arsox.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Arsox.png"
+    },
+    {
+      "dest": "assets/pals/Muffly.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Muffly.png"
+    },
+    {
+      "dest": "assets/pals/Bristla.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bristla.png"
+    },
+    {
+      "dest": "assets/pals/Cinnamoth.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cinnamoth.png"
+    },
+    {
+      "dest": "assets/pals/Puffolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Puffolt.png"
+    },
+    {
+      "dest": "assets/pals/Elphidran.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elphidran.png"
+    },
+    {
+      "dest": "assets/pals/Elphidran Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elphidran%20Aqua.png"
+    },
+    {
+      "dest": "assets/pals/Vanwyrm.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vanwyrm.png"
+    },
+    {
+      "dest": "assets/pals/Vanwyrm Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vanwyrm%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Felbat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Felbat.png"
+    },
+    {
+      "dest": "assets/pals/Vaelet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Vaelet.png"
+    },
+    {
+      "dest": "assets/pals/Beegarde.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beegarde.png"
+    },
+    {
+      "dest": "assets/pals/Elizabee.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elizabee.png"
+    },
+    {
+      "dest": "assets/pals/Lovander.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lovander.png"
+    },
+    {
+      "dest": "assets/pals/Grintale.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Grintale.png"
+    },
+    {
+      "dest": "assets/pals/Tarantriss.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tarantriss.png"
+    },
+    {
+      "dest": "assets/pals/Polapup.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Polapup.png"
+    },
+    {
+      "dest": "assets/pals/Polapup Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Polapup%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Leezpunk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leezpunk.png"
+    },
+    {
+      "dest": "assets/pals/Leezpunk Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leezpunk%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Gorirat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gorirat.png"
+    },
+    {
+      "dest": "assets/pals/Gorirat Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gorirat%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Surfent.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Surfent.png"
+    },
+    {
+      "dest": "assets/pals/Surfent Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Surfent%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Robinquill.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Robinquill.png"
+    },
+    {
+      "dest": "assets/pals/Robinquill Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Robinquill%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Flopie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flopie.png"
+    },
+    {
+      "dest": "assets/pals/Wixen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wixen.png"
+    },
+    {
+      "dest": "assets/pals/Wixen Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wixen%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Katress.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Katress.png"
+    },
+    {
+      "dest": "assets/pals/Katress Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Katress%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Helzephyr.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Helzephyr.png"
+    },
+    {
+      "dest": "assets/pals/Helzephyr Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Helzephyr%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Elgrove.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elgrove.png"
+    },
+    {
+      "dest": "assets/pals/Elgrove Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Elgrove%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Lunaris.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lunaris.png"
+    },
+    {
+      "dest": "assets/pals/Fenglope.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fenglope.png"
+    },
+    {
+      "dest": "assets/pals/Fenglope Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Fenglope%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Dinossom.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dinossom.png"
+    },
+    {
+      "dest": "assets/pals/Dinossom Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dinossom%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Bushi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bushi.png"
+    },
+    {
+      "dest": "assets/pals/Bushi Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bushi%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Munchill.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Munchill.png"
+    },
+    {
+      "dest": "assets/pals/Mammorest.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mammorest.png"
+    },
+    {
+      "dest": "assets/pals/Mammorest Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mammorest%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Finsider.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Finsider.png"
+    },
+    {
+      "dest": "assets/pals/Finsider Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Finsider%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Petallia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Petallia.png"
+    },
+    {
+      "dest": "assets/pals/Petallia Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Petallia%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Leafan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Leafan.png"
+    },
+    {
+      "dest": "assets/pals/Incineram.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Incineram.png"
+    },
+    {
+      "dest": "assets/pals/Incineram Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Incineram%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Dazzi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazzi.png"
+    },
+    {
+      "dest": "assets/pals/Dazzi Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazzi%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Pyrin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pyrin.png"
+    },
+    {
+      "dest": "assets/pals/Pyrin Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pyrin%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Relaxaurus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Relaxaurus.png"
+    },
+    {
+      "dest": "assets/pals/Relaxaurus Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Relaxaurus%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Foxcicle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Foxcicle.png"
+    },
+    {
+      "dest": "assets/pals/Beakon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beakon.png"
+    },
+    {
+      "dest": "assets/pals/Beakon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Beakon%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Ghangler.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ghangler.png"
+    },
+    {
+      "dest": "assets/pals/Ghangler Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ghangler%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Rayhound.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rayhound.png"
+    },
+    {
+      "dest": "assets/pals/Rayhound Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rayhound%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Menasting.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Menasting.png"
+    },
+    {
+      "dest": "assets/pals/Menasting Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Menasting%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Needoll.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Needoll.png"
+    },
+    {
+      "dest": "assets/pals/Needoll Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Needoll%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Reindrix.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reindrix.png"
+    },
+    {
+      "dest": "assets/pals/Mossanda.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mossanda.png"
+    },
+    {
+      "dest": "assets/pals/Mossanda Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mossanda%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Chillet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chillet.png"
+    },
+    {
+      "dest": "assets/pals/Chillet Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Chillet%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Ragnahawk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ragnahawk.png"
+    },
+    {
+      "dest": "assets/pals/Moldron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Moldron.png"
+    },
+    {
+      "dest": "assets/pals/Moldron Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Moldron%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Palumba.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Palumba.png"
+    },
+    {
+      "dest": "assets/pals/Digtoise.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Digtoise.png"
+    },
+    {
+      "dest": "assets/pals/Broncherry.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Broncherry.png"
+    },
+    {
+      "dest": "assets/pals/Broncherry Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Broncherry%20Aqua.png"
+    },
+    {
+      "dest": "assets/pals/Dumud.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dumud.png"
+    },
+    {
+      "dest": "assets/pals/Dumud Gild.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dumud%20Gild.png"
+    },
+    {
+      "dest": "assets/pals/Braloha.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Braloha.png"
+    },
+    {
+      "dest": "assets/pals/Kitsun.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kitsun.png"
+    },
+    {
+      "dest": "assets/pals/Kitsun Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kitsun%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Blazehowl.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazehowl.png"
+    },
+    {
+      "dest": "assets/pals/Blazehowl Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazehowl%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Warsect.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Warsect.png"
+    },
+    {
+      "dest": "assets/pals/Warsect Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Warsect%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Frostplume.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostplume.png"
+    },
+    {
+      "dest": "assets/pals/Majex.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Majex.png"
+    },
+    {
+      "dest": "assets/pals/Sibelyx.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sibelyx.png"
+    },
+    {
+      "dest": "assets/pals/Sibelyx Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sibelyx%20Primo.png"
+    },
+    {
+      "dest": "assets/pals/Maraith.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Maraith.png"
+    },
+    {
+      "dest": "assets/pals/Shroomer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shroomer.png"
+    },
+    {
+      "dest": "assets/pals/Shroomer Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shroomer%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Icelyn.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Icelyn.png"
+    },
+    {
+      "dest": "assets/pals/Gildra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gildra.png"
+    },
+    {
+      "dest": "assets/pals/Jormuntide.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jormuntide.png"
+    },
+    {
+      "dest": "assets/pals/Jormuntide Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jormuntide%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Suzaku.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Suzaku.png"
+    },
+    {
+      "dest": "assets/pals/Suzaku Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Suzaku%20Aqua.png"
+    },
+    {
+      "dest": "assets/pals/Dazemu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dazemu.png"
+    },
+    {
+      "dest": "assets/pals/Quivern.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Quivern.png"
+    },
+    {
+      "dest": "assets/pals/Quivern Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Quivern%20Botan.png"
+    },
+    {
+      "dest": "assets/pals/Lullu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lullu.png"
+    },
+    {
+      "dest": "assets/pals/Kikit.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Kikit.png"
+    },
+    {
+      "dest": "assets/pals/Yakumo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Yakumo.png"
+    },
+    {
+      "dest": "assets/pals/Skutlass.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Skutlass.png"
+    },
+    {
+      "dest": "assets/pals/Skutlass Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Skutlass%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Reptyro.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reptyro.png"
+    },
+    {
+      "dest": "assets/pals/Reptyro Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Reptyro%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Starryon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Starryon.png"
+    },
+    {
+      "dest": "assets/pals/Starryon Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Starryon%20Primo.png"
+    },
+    {
+      "dest": "assets/pals/Pierdon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pierdon.png"
+    },
+    {
+      "dest": "assets/pals/Pierdon Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Pierdon%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Cryolinx.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cryolinx.png"
+    },
+    {
+      "dest": "assets/pals/Cryolinx Terra.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cryolinx%20Terra.png"
+    },
+    {
+      "dest": "assets/pals/Snugloo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snugloo.png"
+    },
+    {
+      "dest": "assets/pals/Wumpo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wumpo.png"
+    },
+    {
+      "dest": "assets/pals/Wumpo Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wumpo%20Botan.png"
+    },
+    {
+      "dest": "assets/pals/Sootseer.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sootseer.png"
+    },
+    {
+      "dest": "assets/pals/Carnibora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Carnibora.png"
+    },
+    {
+      "dest": "assets/pals/Blazamut.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazamut.png"
+    },
+    {
+      "dest": "assets/pals/Blazamut Ryu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blazamut%20Ryu.png"
+    },
+    {
+      "dest": "assets/pals/Dualith.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dualith.png"
+    },
+    {
+      "dest": "assets/pals/Dualith Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dualith%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Anubis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Anubis.png"
+    },
+    {
+      "dest": "assets/pals/Sekhmet.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Sekhmet.png"
+    },
+    {
+      "dest": "assets/pals/Prixter.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prixter.png"
+    },
+    {
+      "dest": "assets/pals/Prixter Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prixter%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Tetroise.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tetroise.png"
+    },
+    {
+      "dest": "assets/pals/Tetroise Primo.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tetroise%20Primo.png"
+    },
+    {
+      "dest": "assets/pals/Nyafia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nyafia.png"
+    },
+    {
+      "dest": "assets/pals/Mimog.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mimog.png"
+    },
+    {
+      "dest": "assets/pals/Xenovader.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenovader.png"
+    },
+    {
+      "dest": "assets/pals/Xenogard.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenogard.png"
+    },
+    {
+      "dest": "assets/pals/Prunelia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Prunelia.png"
+    },
+    {
+      "dest": "assets/pals/Nitemary.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitemary.png"
+    },
+    {
+      "dest": "assets/pals/Nitemary Botan.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Nitemary%20Botan.png"
+    },
+    {
+      "dest": "assets/pals/Smokie.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Smokie.png"
+    },
+    {
+      "dest": "assets/pals/Smokie Cryst.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Smokie%20Cryst.png"
+    },
+    {
+      "dest": "assets/pals/Omascul.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Omascul.png"
+    },
+    {
+      "dest": "assets/pals/Whalaska.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Whalaska.png"
+    },
+    {
+      "dest": "assets/pals/Whalaska Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Whalaska%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Verdash.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Verdash.png"
+    },
+    {
+      "dest": "assets/pals/Splatterina.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Splatterina.png"
+    },
+    {
+      "dest": "assets/pals/Gildane.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Gildane.png"
+    },
+    {
+      "dest": "assets/pals/Dogen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dogen.png"
+    },
+    {
+      "dest": "assets/pals/Bulldosu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bulldosu.png"
+    },
+    {
+      "dest": "assets/pals/Celesdir.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celesdir.png"
+    },
+    {
+      "dest": "assets/pals/Celesdir Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Celesdir%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Astegon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Astegon.png"
+    },
+    {
+      "dest": "assets/pals/Knocklem.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Knocklem.png"
+    },
+    {
+      "dest": "assets/pals/Knocklem Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Knocklem%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Silvegis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Silvegis.png"
+    },
+    {
+      "dest": "assets/pals/Azurmane.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Azurmane.png"
+    },
+    {
+      "dest": "assets/pals/Valentail.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Valentail.png"
+    },
+    {
+      "dest": "assets/pals/Snock.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snock.png"
+    },
+    {
+      "dest": "assets/pals/Snock Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Snock%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Souffline.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Souffline.png"
+    },
+    {
+      "dest": "assets/pals/Lapiron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lapiron.png"
+    },
+    {
+      "dest": "assets/pals/Hoodle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hoodle.png"
+    },
+    {
+      "dest": "assets/pals/Slowatt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Slowatt.png"
+    },
+    {
+      "dest": "assets/pals/Bakemi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bakemi.png"
+    },
+    {
+      "dest": "assets/pals/Solmora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solmora.png"
+    },
+    {
+      "dest": "assets/pals/Solmora Lux.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solmora%20Lux.png"
+    },
+    {
+      "dest": "assets/pals/Lapure.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lapure.png"
+    },
+    {
+      "dest": "assets/pals/Eidrolon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eidrolon.png"
+    },
+    {
+      "dest": "assets/pals/Eidrolon Ignis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eidrolon%20Ignis.png"
+    },
+    {
+      "dest": "assets/pals/Dynamoff.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dynamoff.png"
+    },
+    {
+      "dest": "assets/pals/Tropicaw.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Tropicaw.png"
+    },
+    {
+      "dest": "assets/pals/Flaracle.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Flaracle.png"
+    },
+    {
+      "dest": "assets/pals/Ophydia.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Ophydia.png"
+    },
+    {
+      "dest": "assets/pals/Dupin.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dupin.png"
+    },
+    {
+      "dest": "assets/pals/Roujay.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Roujay.png"
+    },
+    {
+      "dest": "assets/pals/Venusa.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Venusa.png"
+    },
+    {
+      "dest": "assets/pals/Mycora.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Mycora.png"
+    },
+    {
+      "dest": "assets/pals/Loomen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Loomen.png"
+    },
+    {
+      "dest": "assets/pals/Wistella.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Wistella.png"
+    },
+    {
+      "dest": "assets/pals/Solenne.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Solenne.png"
+    },
+    {
+      "dest": "assets/pals/Renjishi.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Renjishi.png"
+    },
+    {
+      "dest": "assets/pals/Aegidron.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Aegidron.png"
+    },
+    {
+      "dest": "assets/pals/Grizzbolt.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Grizzbolt.png"
+    },
+    {
+      "dest": "assets/pals/Lyleen.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lyleen.png"
+    },
+    {
+      "dest": "assets/pals/Lyleen Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Lyleen%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Orserk.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Orserk.png"
+    },
+    {
+      "dest": "assets/pals/Faleris.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Faleris.png"
+    },
+    {
+      "dest": "assets/pals/Faleris Aqua.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Faleris%20Aqua.png"
+    },
+    {
+      "dest": "assets/pals/Shadowbeak.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shadowbeak.png"
+    },
+    {
+      "dest": "assets/pals/Selyne.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Selyne.png"
+    },
+    {
+      "dest": "assets/pals/Bastigor.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bastigor.png"
+    },
+    {
+      "dest": "assets/pals/Shaolong.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Shaolong.png"
+    },
+    {
+      "dest": "assets/pals/Silvance.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Silvance.png"
+    },
+    {
+      "dest": "assets/pals/Dandilord.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Dandilord.png"
+    },
+    {
+      "dest": "assets/pals/Bellanoir.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bellanoir.png"
+    },
+    {
+      "dest": "assets/pals/Bellanoir Libero.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Bellanoir%20Libero.png"
+    },
+    {
+      "dest": "assets/pals/Xenolord.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Xenolord.png"
+    },
+    {
+      "dest": "assets/pals/Hartalis.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Hartalis.png"
+    },
+    {
+      "dest": "assets/pals/Paladius.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Paladius.png"
+    },
+    {
+      "dest": "assets/pals/Necromus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Necromus.png"
+    },
+    {
+      "dest": "assets/pals/Frostallion.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostallion.png"
+    },
+    {
+      "dest": "assets/pals/Frostallion Noct.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Frostallion%20Noct.png"
+    },
+    {
+      "dest": "assets/pals/Neptilius.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Neptilius.png"
+    },
+    {
+      "dest": "assets/pals/Jetragon.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Jetragon.png"
+    },
+    {
+      "dest": "assets/pals/Panthalus.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Panthalus.png"
+    },
+    {
+      "dest": "assets/pals/Eye of Cthulhu.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Eye%20of%20Cthulhu.png"
+    },
+    {
+      "dest": "assets/pals/Demon Eye.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Demon%20Eye.png"
+    },
+    {
+      "dest": "assets/pals/Green Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Green%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Blue Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Blue%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Illuminant Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Illuminant%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Purple Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Purple%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Rainbow Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Rainbow%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Red Slime.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Red%20Slime.png"
+    },
+    {
+      "dest": "assets/pals/Enchanted Sword.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Enchanted%20Sword.png"
+    },
+    {
+      "dest": "assets/pals/Cave Bat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Cave%20Bat.png"
+    },
+    {
+      "dest": "assets/pals/Illuminant Bat.png",
+      "url": "https://raw.githubusercontent.com/tylercamp/palcalc/8ade7381d0548d0312dbe0d650673e4cebd86fd6/PalCalc.UI/Resources/Pals/Illuminant%20Bat.png"
+    },
+    {
+      "dest": "assets/elements/neutral.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/neutral.webp"
+    },
+    {
+      "dest": "assets/elements/fire.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/fire.webp"
+    },
+    {
+      "dest": "assets/elements/water.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/water.webp"
+    },
+    {
+      "dest": "assets/elements/grass.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/grass.webp"
+    },
+    {
+      "dest": "assets/elements/electric.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/electric.webp"
+    },
+    {
+      "dest": "assets/elements/ice.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/ice.webp"
+    },
+    {
+      "dest": "assets/elements/ground.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/ground.webp"
+    },
+    {
+      "dest": "assets/elements/dark.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/dark.webp"
+    },
+    {
+      "dest": "assets/elements/dragon.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/dragon.webp"
+    },
+    {
+      "dest": "assets/skills/rank_-3.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-3.webp"
+    },
+    {
+      "dest": "assets/skills/rank_-2.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-2.webp"
+    },
+    {
+      "dest": "assets/skills/rank_-1.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_-1.webp"
+    },
+    {
+      "dest": "assets/skills/rank_0.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_0.webp"
+    },
+    {
+      "dest": "assets/skills/rank_1.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_1.webp"
+    },
+    {
+      "dest": "assets/skills/rank_2.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_2.webp"
+    },
+    {
+      "dest": "assets/skills/rank_3.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_3.webp"
+    },
+    {
+      "dest": "assets/skills/rank_4.webp",
+      "url": "https://raw.githubusercontent.com/oMaN-Rod/palworld-save-pal/4cd0a85f66cf424b650ef0e886032a6b7419e55b/ui/src/lib/assets/img/rank_4.webp"
+    },
+    {
+      "dest": "assets/map/icons/fast-travel.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Great_Eagle_Statue_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/watchtower.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Location_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/tower.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Tower_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/sealed-realm.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Dungeon_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/alpha-pal.png",
+      "url": "https://palworld.wiki.gg/images/Alpha_Pals_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/oil-rig.png",
+      "url": "https://palworld.wiki.gg/images/Compass_Oil_Rig_icon.png"
+    },
+    {
+      "dest": "assets/map/icons/skill-fruit.png",
+      "url": "https://palworld.wiki.gg/images/Skillfruit_Orchard_icon.png"
+    },
+    {
+      "dest": "assets/structures/accumulator.png",
+      "url": "https://palworld.wiki.gg/images/Accumulator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/advanced-chest.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Chest_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/advanced-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Medicine_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/advanced-sphere-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Sphere_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/advanced-weapon-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Weapon_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/advanced-workshop.png",
+      "url": "https://palworld.wiki.gg/images/Advanced_Workshop_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/alarm-bell.png",
+      "url": "https://palworld.wiki.gg/images/Alarm_Bell_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/alpha-wave-generator.png",
+      "url": "https://palworld.wiki.gg/images/Alpha_Wave_Generator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/antique-dresser.png",
+      "url": "https://palworld.wiki.gg/images/Antique_Dresser_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/bear-trap-large.png",
+      "url": "https://palworld.wiki.gg/images/Bear_Trap_%28Large%29_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/bear-trap-small.png",
+      "url": "https://palworld.wiki.gg/images/Bear_Trap_%28Small%29_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/berry-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Berry_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/beta-wave-generator.png",
+      "url": "https://palworld.wiki.gg/images/Beta_Wave_Generator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/breeding-farm.png",
+      "url": "https://palworld.wiki.gg/images/Breeding_Farm_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/campfire.png",
+      "url": "https://palworld.wiki.gg/images/Campfire_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/carrot-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Carrot_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ceiling-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Ceiling_Lamp_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/coal-mine.png",
+      "url": "https://palworld.wiki.gg/images/Coal_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/cold-food-box.png",
+      "url": "https://palworld.wiki.gg/images/Cold_Food_Box_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/cooking-pot.png",
+      "url": "https://palworld.wiki.gg/images/Cooking_Pot_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/cooler.png",
+      "url": "https://palworld.wiki.gg/images/Cooler_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/cooler-box.png",
+      "url": "https://palworld.wiki.gg/images/Cooler_Box_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/crude-oil-extractor.png",
+      "url": "https://palworld.wiki.gg/images/Crude_Oil_Extractor_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/crusher.png",
+      "url": "https://palworld.wiki.gg/images/Crusher_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Defensive_Wall_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/drafting-table.png",
+      "url": "https://palworld.wiki.gg/images/Drafting_Table_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/egg-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Egg_Incubator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-cooler.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Cooler_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-egg-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Egg_Incubator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Furnace_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-heater.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Heater_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-kitchen.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Kitchen_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Medicine_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-mine.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/electric-pylon.png",
+      "url": "https://palworld.wiki.gg/images/Electric_Pylon_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/feed-box.png",
+      "url": "https://palworld.wiki.gg/images/Feed_Box_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/fine-bed.png",
+      "url": "https://palworld.wiki.gg/images/Fine_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/fishing-pond.png",
+      "url": "https://palworld.wiki.gg/images/Fishing_Pond_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/flame-cauldron.png",
+      "url": "https://palworld.wiki.gg/images/Flame_Cauldron_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/flea-market-items.png",
+      "url": "https://palworld.wiki.gg/images/Flea_Market_%28Items%29_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/flea-market-pals.png",
+      "url": "https://palworld.wiki.gg/images/Flea_Market_%28Pals%29_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/flower-bed.png",
+      "url": "https://palworld.wiki.gg/images/Flower_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/fluffy-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Fluffy_Pal_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/gigantic-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Gigantic_Furnace_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/global-palbox.png",
+      "url": "https://palworld.wiki.gg/images/Global_Palbox_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/gold-coin-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Gold_Coin_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/hanging-trap.png",
+      "url": "https://palworld.wiki.gg/images/Hanging_Trap_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/heater.png",
+      "url": "https://palworld.wiki.gg/images/Heater_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/hexolite-quartz-mine.png",
+      "url": "https://palworld.wiki.gg/images/Hexolite_Quartz_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/high-quality-hot-spring.png",
+      "url": "https://palworld.wiki.gg/images/High_Quality_Hot_Spring_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/high-quality-workbench.png",
+      "url": "https://palworld.wiki.gg/images/High_Quality_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/hot-spring.png",
+      "url": "https://palworld.wiki.gg/images/Hot_Spring_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/human-powered-generator.png",
+      "url": "https://palworld.wiki.gg/images/Human-Powered_Generator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ice-mine.png",
+      "url": "https://palworld.wiki.gg/images/Ice_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/improved-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Improved_Furnace_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/iron-gate.png",
+      "url": "https://palworld.wiki.gg/images/Iron_Gate_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/japanese-style-hotspring.png",
+      "url": "https://palworld.wiki.gg/images/Japanese-Style_Hotspring_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ladder.png",
+      "url": "https://palworld.wiki.gg/images/Ladder_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/lamp.png",
+      "url": "https://palworld.wiki.gg/images/Lamp_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-ceiling-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Large_Ceiling_Lamp_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-fishing-pond.png",
+      "url": "https://palworld.wiki.gg/images/Large_Fishing_Pond_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-incubator.png",
+      "url": "https://palworld.wiki.gg/images/Large_Incubator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-mounted-lamp.png",
+      "url": "https://palworld.wiki.gg/images/Large_Mounted_Lamp_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Large_Pal_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-power-generator.png",
+      "url": "https://palworld.wiki.gg/images/Large_Power_Generator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-toolbox.png",
+      "url": "https://palworld.wiki.gg/images/Large_Toolbox_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/large-scale-stone-oven.png",
+      "url": "https://palworld.wiki.gg/images/Large-Scale_Stone_Oven_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/lettuce-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Lettuce_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/logging-site.png",
+      "url": "https://palworld.wiki.gg/images/Logging_Site_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/medicine-rack.png",
+      "url": "https://palworld.wiki.gg/images/Medicine_Rack_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/medieval-medicine-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Medieval_Medicine_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/metal-chest.png",
+      "url": "https://palworld.wiki.gg/images/Metal_Chest_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/metal-defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Metal_Defensive_Wall_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mill.png",
+      "url": "https://palworld.wiki.gg/images/Mill_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mine.png",
+      "url": "https://palworld.wiki.gg/images/Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mining-cart.png",
+      "url": "https://palworld.wiki.gg/images/Mining_Cart_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/monitoring-stand.png",
+      "url": "https://palworld.wiki.gg/images/Monitoring_Stand_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mounted-crossbow.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Crossbow_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mounted-machine-gun.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Machine_Gun_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mounted-missile-launcher.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Missile_Launcher_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/mounted-torch.png",
+      "url": "https://palworld.wiki.gg/images/Mounted_Torch_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/onion-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Onion_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ore-mining-site.png",
+      "url": "https://palworld.wiki.gg/images/Ore_Mining_Site_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ore-mining-site-ii.png",
+      "url": "https://palworld.wiki.gg/images/Ore_Mining_Site_II_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-disassembly-conveyor.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Disassembly_Conveyor_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-dressing-facility.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Dressing_Facility_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-essence-condenser.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Essence_Condenser_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-expedition-station.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Expedition_Station_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-gear-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Gear_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-labor-research-laboratory.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Labor_Research_Laboratory_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pal-surgery-table.png",
+      "url": "https://palworld.wiki.gg/images/Pal_Surgery_Table_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/palbox.png",
+      "url": "https://palworld.wiki.gg/images/Palbox_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/palbox-control-device.png",
+      "url": "https://palworld.wiki.gg/images/Palbox_Control_Device_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/potato-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Potato_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/power-generator.png",
+      "url": "https://palworld.wiki.gg/images/Power_Generator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/primitive-furnace.png",
+      "url": "https://palworld.wiki.gg/images/Primitive_Furnace_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/primitive-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Primitive_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/production-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Production_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/production-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Production_Assembly_Line_II_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/pure-quartz-mine.png",
+      "url": "https://palworld.wiki.gg/images/Pure_Quartz_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/ranch.png",
+      "url": "https://palworld.wiki.gg/images/Ranch_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/refined-metal-chest.png",
+      "url": "https://palworld.wiki.gg/images/Refined_Metal_Chest_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/refrigerated-crusher.png",
+      "url": "https://palworld.wiki.gg/images/Refrigerated_Crusher_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/refrigerator.png",
+      "url": "https://palworld.wiki.gg/images/Refrigerator_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/repair-bench.png",
+      "url": "https://palworld.wiki.gg/images/Repair_Bench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sandbag.png",
+      "url": "https://palworld.wiki.gg/images/Sandbag_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/shoddy-bed.png",
+      "url": "https://palworld.wiki.gg/images/Shoddy_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sign.png",
+      "url": "https://palworld.wiki.gg/images/Sign_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/silo.png",
+      "url": "https://palworld.wiki.gg/images/Silo_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/skillfruit-orchard.png",
+      "url": "https://palworld.wiki.gg/images/Skillfruit_Orchard_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/snowman.png",
+      "url": "https://palworld.wiki.gg/images/Snowman_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sphere-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sphere-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Assembly_Line_II_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sphere-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Sphere_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/statue-of-power.png",
+      "url": "https://palworld.wiki.gg/images/Statue_of_Power_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/stone-gate.png",
+      "url": "https://palworld.wiki.gg/images/Stone_Gate_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/stone-pit.png",
+      "url": "https://palworld.wiki.gg/images/Stone_Pit_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/straw-pal-bed.png",
+      "url": "https://palworld.wiki.gg/images/Straw_Pal_Bed_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/stump-and-axe.png",
+      "url": "https://palworld.wiki.gg/images/Stump_and_Axe_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/sulfur-mine.png",
+      "url": "https://palworld.wiki.gg/images/Sulfur_Mine_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/summoning-altar.png",
+      "url": "https://palworld.wiki.gg/images/Summoning_Altar_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/tomato-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Tomato_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/tombstone.png",
+      "url": "https://palworld.wiki.gg/images/Tombstone_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/training-dummy.png",
+      "url": "https://palworld.wiki.gg/images/Training_Dummy_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/viewing-cage.png",
+      "url": "https://palworld.wiki.gg/images/Viewing_Cage_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wall-torch.png",
+      "url": "https://palworld.wiki.gg/images/Wall_Torch_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wall-mounted-sign.png",
+      "url": "https://palworld.wiki.gg/images/Wall-Mounted_Sign_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/water-fountain.png",
+      "url": "https://palworld.wiki.gg/images/Water_Fountain_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/weapon-assembly-line.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Assembly_Line_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/weapon-assembly-line-ii.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Assembly_Line_II_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/weapon-workbench.png",
+      "url": "https://palworld.wiki.gg/images/Weapon_Workbench_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wheat-plantation.png",
+      "url": "https://palworld.wiki.gg/images/Wheat_Plantation_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/witch-cauldron.png",
+      "url": "https://palworld.wiki.gg/images/Witch_Cauldron_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wooden-chest.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Chest_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wooden-defensive-wall.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Defensive_Wall_icon.png",
+      "optional": true
+    },
+    {
+      "dest": "assets/structures/wooden-gate.png",
+      "url": "https://palworld.wiki.gg/images/Wooden_Gate_icon.png",
+      "optional": true
+    }
+  ]
+}

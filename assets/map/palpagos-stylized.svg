@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600" role="img" aria-labelledby="title desc">
+  <title id="title">Palpagos Islands schematic basemap</title>
+  <desc id="desc">An original coordinate-aligned, stylized basemap for positioning PalBreed map markers. It is not a copy of the in-game map.</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07171c"/>
+      <stop offset="0.48" stop-color="#0a2429"/>
+      <stop offset="1" stop-color="#071419"/>
+    </linearGradient>
+    <radialGradient id="oceanGlow" cx="61%" cy="45%" r="63%">
+      <stop offset="0" stop-color="#1a5960" stop-opacity=".28"/>
+      <stop offset=".72" stop-color="#0b343a" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#041014" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2=".8" y2="1">
+      <stop stop-color="#8ab77d"/>
+      <stop offset="1" stop-color="#335f55"/>
+    </linearGradient>
+    <linearGradient id="forest" x1=".15" y1="0" x2=".8" y2="1">
+      <stop stop-color="#5e9b75"/>
+      <stop offset="1" stop-color="#244b48"/>
+    </linearGradient>
+    <linearGradient id="snow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d5eff0"/>
+      <stop offset=".42" stop-color="#8ebbc1"/>
+      <stop offset="1" stop-color="#496a73"/>
+    </linearGradient>
+    <linearGradient id="desert" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ddb778"/>
+      <stop offset="1" stop-color="#8e6845"/>
+    </linearGradient>
+    <linearGradient id="volcano" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ad6b4e"/>
+      <stop offset=".52" stop-color="#6f3d39"/>
+      <stop offset="1" stop-color="#342f33"/>
+    </linearGradient>
+    <linearGradient id="sakura" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#d394aa"/>
+      <stop offset="1" stop-color="#765b78"/>
+    </linearGradient>
+    <linearGradient id="feybreak" x1=".2" y1="0" x2=".9" y2="1">
+      <stop stop-color="#9f9658"/>
+      <stop offset=".48" stop-color="#72623c"/>
+      <stop offset="1" stop-color="#3a473e"/>
+    </linearGradient>
+    <pattern id="grid" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M100 0H0V100" fill="none" stroke="#a8ded8" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <pattern id="minorGrid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#a8ded8" stroke-opacity=".018" stroke-width="1"/>
+    </pattern>
+    <filter id="landShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="11" result="blur"/>
+      <feOffset dy="8" result="offset"/>
+      <feColorMatrix in="offset" type="matrix" values="0 0 0 0 0.02 0 0 0 0 0.07 0 0 0 0 0.08 0 0 0 .75 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <style>
+      .land{stroke:#b9d7c3;stroke-opacity:.3;stroke-width:3;stroke-linejoin:round}
+      .ridge{fill:none;stroke:#e7f5dc;stroke-opacity:.16;stroke-width:4;stroke-linecap:round}
+      .river{fill:none;stroke:#73cbd0;stroke-opacity:.5;stroke-width:7;stroke-linecap:round}
+      .coast-glow{fill:none;stroke:#6dd8cc;stroke-opacity:.09;stroke-width:15;filter:url(#softGlow)}
+      .label{font:600 21px system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:3px;fill:#d9eeee;fill-opacity:.72;text-anchor:middle}
+      .sub{font:500 14px system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:2px;fill:#c5dedd;fill-opacity:.5;text-anchor:middle}
+    </style>
+  </defs>
+
+  <rect width="1600" height="1600" fill="url(#ocean)"/>
+  <rect width="1600" height="1600" fill="url(#oceanGlow)"/>
+  <path d="M93 1288C250 1160 302 975 492 870S785 647 946 468s300-215 478-287" fill="none" stroke="#43c7c4" stroke-opacity=".055" stroke-width="44" filter="url(#softGlow)"/>
+  <path d="M218 1480c193-74 283-52 401-112 141-71 155-198 276-258 162-80 322 4 496-93" fill="none" stroke="#5ed8d0" stroke-opacity=".045" stroke-width="25" filter="url(#softGlow)"/>
+  <rect width="1600" height="1600" fill="url(#minorGrid)"/>
+  <rect width="1600" height="1600" fill="url(#grid)"/>
+
+  <g filter="url(#landShadow)">
+    <path class="coast-glow" d="M686 390 748 284 834 221 939 208 1016 255 1071 334 1062 410 1009 460 914 455 824 491 737 466Z"/>
+    <path class="land" fill="url(#snow)" d="M686 390 708 326 748 284 799 269 834 221 902 235 939 208 987 229 1016 255 1030 303 1071 334 1053 378 1062 410 1009 460 958 441 914 455 870 437 824 491 782 457 737 466 719 426Z"/>
+    <path class="ridge" d="m741 394 79-68 40-67 35 84 58-95 46 106 49-45"/>
+    <path class="ridge" d="m790 437 84-72 63 53 65-56"/>
+
+    <path class="coast-glow" d="M1045 307 1162 230 1305 247 1395 342 1376 476 1296 570 1172 578 1066 505 1014 406Z"/>
+    <path class="land" fill="url(#desert)" d="M1045 307 1094 267 1162 230 1230 251 1305 247 1342 301 1395 342 1370 398 1376 476 1335 513 1296 570 1239 551 1172 578 1124 537 1066 505 1055 450 1014 406Z"/>
+    <path class="ridge" d="m1092 347 92-48 81 25 70 73-31 89-92 30-111-53"/>
+    <path class="ridge" d="m1153 391 62-32 61 65-45 44-69-17"/>
+
+    <path class="coast-glow" d="M654 430 719 391 785 420 813 487 778 548 694 571 628 524 616 468Z"/>
+    <path class="land" fill="url(#sakura)" d="M654 430 719 391 758 421 785 420 791 462 813 487 778 548 732 542 694 571 664 538 628 524 634 490 616 468Z"/>
+    <path class="ridge" d="m652 483 62-42 55 48-64 45"/>
+
+    <path class="coast-glow" d="M740 523 858 455 997 474 1094 550 1162 654 1134 756 1041 827 918 849 798 798 713 706 700 608Z"/>
+    <path class="land" fill="url(#forest)" d="M740 523 799 500 858 455 922 482 997 474 1033 524 1094 550 1101 611 1162 654 1138 705 1134 756 1081 776 1041 827 978 808 918 849 864 811 798 798 770 748 713 706 724 656 700 608 731 568Z"/>
+    <path class="river" d="M958 493c-22 81-75 105-49 177 17 47 75 64 64 139"/>
+    <path class="ridge" d="m754 606 92-72 77 42 63-50 76 76"/>
+    <path class="ridge" d="m755 695 88-71 65 77 80-48 111 42"/>
+    <path class="ridge" d="m814 762 86-33 61 52 78-27"/>
+
+    <path class="coast-glow" d="M511 677 594 604 695 617 779 698 805 817 760 946 654 1027 542 1004 464 912 445 797Z"/>
+    <path class="land" fill="url(#volcano)" d="M511 677 551 648 594 604 646 628 695 617 729 666 779 698 768 752 805 817 776 871 760 946 709 964 654 1027 602 991 542 1004 512 955 464 912 478 853 445 797 476 742Z"/>
+    <path d="m595 680 60-23 57 46-10 67-56 52-70-20-24-58Z" fill="#442d33" stroke="#e68b62" stroke-opacity=".28" stroke-width="4"/>
+    <path d="m615 700 35-13 30 27-7 36-29 27-38-13-12-33Z" fill="#bd654b" fill-opacity=".42"/>
+    <path class="ridge" d="m499 851 70-69 76 40 51-52 71 81"/>
+    <path class="ridge" d="m535 935 82-63 61 54 72-48"/>
+
+    <path class="coast-glow" d="M806 780 913 719 1034 748 1122 822 1230 815 1330 873 1387 981 1340 1089 1228 1131 1104 1099 1008 1133 915 1076 829 999 780 892Z"/>
+    <path class="land" fill="url(#grass)" d="M806 780 858 761 913 719 969 751 1034 748 1071 797 1122 822 1171 806 1230 815 1262 857 1330 873 1343 930 1387 981 1353 1028 1340 1089 1285 1087 1228 1131 1172 1098 1104 1099 1064 1130 1008 1133 969 1095 915 1076 887 1027 829 999 826 947 780 892 802 838Z"/>
+    <path class="river" d="M898 777c66 54 30 114 89 154 52 36 121 7 175 71 29 34 64 53 123 57"/>
+    <path class="ridge" d="m844 857 82-47 77 43 77-19 72 58"/>
+    <path class="ridge" d="m872 958 97-48 92 62 86-32 121 63"/>
+    <path class="ridge" d="m965 1062 82-52 77 51 86-23"/>
+
+    <path class="coast-glow" d="M164 1046 285 988 424 1017 520 1117 548 1255 488 1395 371 1495 223 1470 123 1362 80 1220Z"/>
+    <path class="land" fill="url(#feybreak)" d="M164 1046 222 1033 285 988 350 1021 424 1017 465 1069 520 1117 511 1178 548 1255 523 1318 488 1395 426 1418 371 1495 307 1464 223 1470 195 1414 123 1362 129 1300 80 1220 112 1156 104 1095Z"/>
+    <path class="river" d="M418 1050c-27 91-108 110-93 205 11 72 87 90 73 171"/>
+    <path class="ridge" d="m157 1150 93-70 83 54 72-42 82 84"/>
+    <path class="ridge" d="m126 1262 106-59 85 72 87-51 101 77"/>
+    <path class="ridge" d="m185 1376 91-60 71 66 95-52"/>
+
+    <path class="coast-glow" d="M750 1284 821 1247 899 1276 947 1350 923 1436 847 1483 764 1452 721 1372Z"/>
+    <path class="land" fill="url(#grass)" d="M750 1284 785 1279 821 1247 860 1270 899 1276 915 1317 947 1350 929 1391 923 1436 882 1447 847 1483 811 1458 764 1452 754 1410 721 1372 740 1331Z"/>
+    <path class="ridge" d="m755 1362 73-71 73 74-57 70"/>
+  </g>
+
+  <g opacity=".9">
+    <text class="label" x="885" y="350">ASTRAL</text>
+    <text class="sub" x="885" y="377">MOUNTAINS</text>
+    <text class="label" x="1210" y="392">DESICCATED</text>
+    <text class="sub" x="1210" y="419">DUNES</text>
+    <text class="label" x="716" y="493">SAKURAJIMA</text>
+    <text class="label" x="932" y="649">FOREST</text>
+    <text class="label" x="621" y="902">MOUNT OBSIDIAN</text>
+    <text class="label" x="1094" y="953">GRASSLAND</text>
+    <text class="label" x="317" y="1244">FEYBREAK</text>
+    <text class="label" x="836" y="1372">SUNREACH</text>
+  </g>
+
+  <g fill="none" stroke="#b7e6df" stroke-opacity=".25">
+    <path d="M38 78V38h40M1522 38h40v40M38 1522v40h40M1522 1562h40v-40" stroke-width="3"/>
+    <path d="M800 28v22M800 1550v22M28 800h22M1550 800h22" stroke-width="2"/>
+  </g>
+  <text x="52" y="1548" fill="#cbe9e5" fill-opacity=".43" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14" letter-spacing="2">PALBREED SCHEMATIC • MARKER COORDINATES ARE AUTHORITATIVE</text>
+</svg>
+

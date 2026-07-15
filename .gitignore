@@ -1,0 +1,7 @@
+# local agent/tooling state
+.agents/
+.claude/
+
+# OneDrive / editor temp files
+~$*
+*.tmp
